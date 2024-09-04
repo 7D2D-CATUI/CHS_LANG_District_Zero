@@ -1,0 +1,1024 @@
+Key,schinese
+
+0-MPLogue_Prefabs_7D2D_V1_0,--------------------------------------------------------------------
+MPL_OrbSafeClosed,球体安全存储（关闭）
+MPL_OrbSafeInsecure,球体未锁定存储
+MPL_OrbSafeEmpty,球体空存储
+MPL_Recycle Bin,回收站
+MPL_Recycle_Bin,回收站
+MPL_cntGunRackSmallMagazines,弹匣架
+MPL_cntGunRackSmallArmor,防弹衣架
+MPL_cntGunRackLargeGunsEmpty01,武器架
+MPL_cntGunRackLargeGunsEmpty02,武器架
+7Days_Swinger_Pad_by_MPLogue,摇摆垫（MPLogue）
+Baslica_Cistern_by_MPLogue,巴西利卡蓄水池（MPLogue）
+CrystalCave01_by_MPLogue,水晶洞穴（MPLogue）
+DiaLogueTowers_by_MPLogue,对话塔（MPLogue）
+Dirigible_by_MPLogue,气球船（MPLogue）
+FacePalmInc_by_MPLogue,FacePalm公司（MPLogue）
+Flying_Wallendas__by_MPLogue,飞行Wallendas家园（MPLogue）
+MaunSell_Fort_by_MPLogue,马恩塞尔堡垒（MPLogue）
+MazeSm_by_MPLogue,铁迷宫（MPLogue）
+MidCenturyModernHouse01_by_MPLogue,现代中期住宅01（MPLogue）
+MidCenturyModernHouse02_by_MPLogue,迈克尔·菲尔普斯庄园（MPLogue）
+MidCenturyModernHouse04_by_MPLogue,现代中期住宅04（MPLogue）
+MikeAirB+B01_by_MPLogue,迈克的Airbnb（MPLogue）
+Obelisk_2001_by_MPLogue,月球方尖碑2001（MPLogue）
+Petra_Indiana_Jones_by_MPLogue,佩特拉神庙 - 印第安纳琼斯（MPLogue）
+RadCave01_by_MPLogue,辐射洞穴（MPLogue）
+Rainbow_Pit_by_MPLogue,彩虹地堡（MPLogue）
+RaveCave02_by_MPLogue,狂欢洞穴（MPLogue）
+Rose_Abby_byMPLogue,罗斯修道院（MPLogue）
+Rubble_wall_01_by_MPLogue,恐怖废墟（MPLogue）
+Skeletor_Hermitage_by_MPLogue,骷髅隐居地（MPLogue）
+Skywalker_Homestead_by_MPLogue,天行者家园（MPLogue）
+SnekCave_by_MPLogue,猴子打蛇洞（MPLogue）
+Step_Well_by_MPLogue,阶梯井（MPLogue）
+Svalbard_Seed_Vault_by_MPLogue,斯瓦尔巴全球种子库（MPLogue）
+trader_bob_by_MPLogue,交易商Bob（MPLogue）
+trader_hugh_by_MPLogue,交易商Hugh（MPLogue）
+trader_jen_by_MPLogue,交易商Jen（MPLogue）
+trader_joel_by_MPLogue,交易商Joel（MPLogue）
+trader_rekt_by_MPLogue,交易商Rekt（MPLogue）
+trader_Temple_byMPLogue,寺庙多交易商（MPLogue）
+trader_Wight_Multi_Trader_by_MPLogue,怀特多交易商（MPLogue）
+Ayesoar_Mansion_by_MPLogue,艾索尔庄园（MPLogue）
+BridgeHouse_by_MPLogue,桥屋Airbnb（MPLogue）
+Quarry_House_01_by_MPLogue,采石场房屋（MPLogue）
+MPL_BookShelfSingTopFull01,书架
+MPL_BookShelfSingBotFull01,书架
+MPL_BookShelfDubTopEmpt01,书架
+MPL_BookShelfDubTopEmpt02,书架
+MPL_BookShelfDubBotEmpt01,书架
+MPL_BookShelfDubBotEmpt02,书架
+MPL_cntShippingCrateBookstoreEmpt,书店箱子
+MPL_cntLootCrateBookstoreEmpt,书店箱子
+MPL_apartmentSmallMailboxClosedYellow,邮箱
+AreaRug10_1x4_Offset,地毯
+MPL_AreaRug01_2x3,地毯
+MPL_AreaRug01_2x3c,地毯
+MPL_AreaRug01_3x4,地毯
+MPL_AreaRug01_3x4c,地毯
+MPL_AreaRug02_2x3,地毯
+MPL_AreaRug02_2x3c,地毯
+MPL_AreaRug02_3x4,地毯
+MPL_AreaRug02_3x4c,地毯
+MPL_AreaRug03_2x3,地毯
+MPL_AreaRug03_2x3c,地毯
+MPL_AreaRug03_3x4,地毯
+MPL_AreaRug03_3x4c,地毯
+MPL_AreaRug04_2x3,地毯
+MPL_AreaRug04_2x3c,地毯
+MPL_AreaRug04_3x4,地毯
+MPL_AreaRug04_3x4c,地毯
+MPL_AreaRug05_2x3,地毯
+MPL_AreaRug05_2x3c,地毯
+MPL_AreaRug05_3x4,地毯
+MPL_AreaRug05_3x4c,地毯
+MPL_AreaRug06_2x3,地毯
+MPL_AreaRug06_2x3c,地毯
+MPL_AreaRug06_3x4,地毯
+MPL_AreaRug06_3x4c,地毯
+MPL_AreaRug07_2x3,地毯
+MPL_AreaRug07_2x3c,地毯
+MPL_AreaRug07_3x4,地毯
+MPL_AreaRug07_3x4c,地毯
+MPL_AreaRug08_2x3,地毯
+MPL_AreaRug08_2x3c,地毯
+MPL_AreaRug08_3x4,地毯
+MPL_AreaRug08_3x4c,地毯
+MPL_AreaRug09_1x5,地毯
+MPL_AreaRug09_1x5_Offset,地毯
+MPL_AreaRug10_1x4,地毯
+MPL_AreaRug11_2x3,地毯
+MPL_AreaRug11_2x3c,地毯
+MPL_AreaRug11_3x4,地毯
+MPL_AreaRug11_3x4c,地毯
+MPL_AreaRug12_2x3,地毯
+MPL_AreaRug12_2x3c,地毯
+MPL_AreaRug12_3x4,地毯
+MPL_AreaRug12_3x4c,地毯
+MPL_AreaRug13_2x3,地毯
+MPL_AreaRug13_2x3c,地毯
+MPL_AreaRug13_3x4,地毯
+MPL_AreaRug13_3x4c,地毯
+MPL_AreaRug14_2x3,地毯
+MPL_AreaRug14_2x3c,地毯
+MPL_AreaRug14_3x4,地毯
+MPL_AreaRug14_3x4c,地毯
+MPL_AreaRug15_2x3,地毯
+MPL_AreaRug15_2x3c,地毯
+MPL_AreaRug15_3x4,地毯
+MPL_AreaRug15_3x4c,地毯
+MPL_AreaRug16_2x3,地毯
+MPL_AreaRug16_2x3c,地毯
+MPL_AreaRug16_3x4,地毯
+MPL_AreaRug16_3x4c,地毯
+MPL_AreaRug17_2x3,地毯
+MPL_AreaRug17_2x3c,地毯
+MPL_AreaRug17_3x4,地毯
+MPL_AreaRug17_3x4c,地毯
+MPL_AreaRug18_2x3,地毯
+MPL_AreaRug18_2x3cc,地毯
+MPL_AreaRug18_3x4,地毯
+MPL_AreaRug18_3x4c,地毯
+MPL_AreaRug19_2x3,地毯
+MPL_AreaRug19_2x3c,地毯
+MPL_AreaRug19_3x4,地毯
+MPL_AreaRug19_3x4c,地毯
+MPL_AreaRug20_2x3,地毯
+MPL_AreaRug20_2x3c,地毯
+MPL_AreaRug20_3x4,地毯
+MPL_AreaRug20_3x4c,地毯
+MPL_AreaRug21_3x3,地毯
+MPL_AreaRug21_3x3c,地毯
+MPL_AreaRug22_3x3,地毯
+MPL_AreaRug22_3x3c,地毯
+MPL_CoffeeTable04,咖啡桌
+MPL_CoffeeTable05,咖啡桌
+MPL_DiningChair01,餐椅
+MPL_DiningChairFallenFront,餐椅
+MPL_DiningChairFallenSide,餐椅
+MPL_DogsPoker,狗扑克挂毯
+MPL_DogsPool,狗游泳池挂毯
+MPL_EamesChair01,伊姆斯椅
+MPL_EamesChair02,伊姆斯椅
+MPL_EamesDiningChairRed01,红色伊姆斯餐椅
+MPL_EamesFootstool01,伊姆斯脚凳
+MPL_EamesFootstool02,伊姆斯脚凳
+MPL_EamesKitchenChair02,伊姆斯厨房椅
+MPL_LazyBoy01_Burgendy,懒人椅（勃艮第色）
+MPL_LC4,LC4 沙发
+MPL_LiveEdgeCoffeeTable01,实木边咖啡桌
+MPL_LiveEdgeDesk01,实木边书桌
+MPL_LiveEdgeDesk01_offset,实木边书桌
+MPL_LiveEdgeTable01,实木边餐桌
+MPL_Mural_PietMondarain_02,皮埃特·蒙德里安壁画
+MPL_Mural_PietMondarain_02_Offset,皮埃特·蒙德里安壁画（偏移）
+MPL_Mural_PietMondarain_Offset,皮埃特·蒙德里安壁画（偏移）
+MPL_Mural_PietMondrain,皮埃特·蒙德里安壁画
+MPL_NoguchiCoffeeTable01,诺古奇咖啡桌
+MPL_PatioChair,户外椅
+MPL_PatioTable,户外桌
+MPL_PictureMom,妈妈的照片
+MPL_PorchSwing01,门廊秋千
+MPL_RopeBridge,绳桥
+MPL_TripodLamp,三脚灯
+MPL_TulipTable,郁金香桌
+MPL_WombChairGreen,绿色温姆椅
+MPL_WombChairOrange,橙色温姆椅
+MPL_WombStoolGreen,绿色温姆凳
+MPL_WombStoolOrange,橙色温姆凳
+
+
+District Zero,--------------------------------------------------------------------
+autoMiner,自动采矿机
+autoMinerDesc,"自动采矿机可以在一段时间内提取资源。需要气体供能。"
+blastFurnace,高炉
+blastFurnaceDesc,"用于熔炼金属以制作工具和武器或石头以制作水泥。通过增益解锁更多配方。安装工具以提高性能或解锁配方。\n可安装工具：忙碌管道、预热器、坩埚"
+cobaltShapes:VariantHelper,钴块
+materialMcobalt_shapes,钴
+scrapCobaltPile,钴废料堆
+terrOreCobalt,钴矿石
+terrOreStoneCobaltRandom,= 钴矿脉 = 辅助
+oreCobaltBoulder,钴矿石巨石
+cntSedanCarInsecure,生锈轿车
+cntTruckInsecure,越野卡车
+cntMuscleCarInsecure,肌肉车
+cntPickupTruckInsecure,皮卡
+cntSedanCar2Insecure,豪华轿车
+cntHoverCarInsecure,悬浮车
+cntRacingCarInsecure,赛车
+cntArmoredHoverCarInsecure,装甲悬浮车
+cntBlackMuscleCarInsecure,黑色肌肉车
+cntGarbageTruckInsecure,垃圾车
+cntMotorcycleInsecure,摩托车
+cntHoverMotorcycleInsecure,悬浮摩托车
+cntPoliceVehicleInsecure,警用无人机
+cntPoliceVehicleUnlockedAlarm,警用无人机
+signRadiation,辐射标志
+cntBarrelRadiationSingle,辐射桶
+cntBarrelRadiationSingleDesc,"辐射源，当靠近时会缓慢增加你的辐射水平。"
+cntVendingMachine2BrokenLoot,"自动售货机，汽水故障"
+cntVendingMachineEnergyBrokenLoot,"自动售货机，能量故障"
+cntVendingMachineWaterBrokenLoot,"自动售货机，水故障"
+cntSecureStorageWallSafeClosed,墙式保险箱
+MPL_SecureOrbSafeClosed,球形保险箱
+cntSecureStorageDeskSafeClosed,桌式保险箱
+cntSecureStorageGunSafeClosedWhite,白色枪械保险箱
+cntSecureStorageFootlockerClosedWhite,白色脚踏箱
+cntSecureStorageFootlockerClosedArmyGreen,军绿色脚踏箱
+cntSecureStorageWoodenChestClosed,木箱
+cntSecureStorageWoodenChestRottenClosed,腐朽木箱
+cntSecureStorageOldWestChestClosed,西部旧式木箱
+cntSecureStorageWoodenChestMilitaryClosed,军用木箱
+cntSecureStorageToolBoxClosedWhite,白色工具箱
+cntSecureStorageRollingToolBoxClosedWhite,白色滚动工具箱
+treeForestBeech00A,山毛榉树 00 A
+treeForestBeech00B,山毛榉树 00 B
+treeForestBeech00C,山毛榉树 00 C
+treeForestBeech00D,山毛榉树 00 D
+treeForestBeech01,山毛榉树 01
+treeForestBeech02,山毛榉树 02
+treeForestBeech03,山毛榉树 03
+treeForestBeech04,山毛榉树 04
+treeForestBeech05,山毛榉树 05
+treeForestBeech06,山毛榉树 06
+treeForestBeech07,山毛榉树 07
+treeForestBeech08,山毛榉树 08
+treeForestBeech09,山毛榉树 09
+treeForestFir01,冷杉树 01
+treeForestFir02,冷杉树 02
+treeForestFir03,冷杉树 03
+treeForestFir04,冷杉树 04
+treeForestFir05,冷杉树 05
+treeForestFir06,冷杉树 06
+treeForestFir07,冷杉树 07
+treeForestFir08,冷杉树 08
+treeWinterFir01,冬季冷杉树 01
+treeWinterFir02,冬季冷杉树 02
+treeWinterFir03,冬季冷杉树 03
+treeWinterFir04,冬季冷杉树 04
+treeWinterFir05,冬季冷杉树 05
+treeWinterFir06,冬季冷杉树 06
+treeWinterFir07,冬季冷杉树 07
+treeWinterFir08,冬季冷杉树 08
+treePlantedSaplingBeech00,山毛榉种子
+treePlantedSaplingFir00,冷杉种子
+treePlantedSaplingWinterFir00,冬季冷杉种子
+treePlantedForestBeech00,种植山毛榉树 00
+treePlantedForestBeech01,种植山毛榉树 01
+treePlantedForestBeech02,种植山毛榉树 02
+treePlantedForestBeech03,种植山毛榉树 03
+treePlantedForestFir00,种植冷杉树 00
+treePlantedForestFir01,种植冷杉树 01
+treePlantedForestFir02,种植冷杉树 02
+treePlantedForestFir03,种植冷杉树 03
+treePlantedWinterFir00,种植冬季冷杉树 00
+treePlantedWinterFir01,种植冬季冷杉树 01
+treePlantedWinterFir02,种植冬季冷杉树 02
+treePlantedWinterFir03,种植冬季冷杉树 03
+plantBeech00,山毛榉植物 00
+plantBeech01,山毛榉植物 01
+plantBeech02,山毛榉植物 02
+plantBeech03,山毛榉植物 03
+plantBlackBerry00,黑莓植物 00
+plantBlackBerry01,黑莓植物 01
+plantBlackBerry02,黑莓植物 02
+plantBlackBerry03,黑莓植物 03
+plantBlackBerry04,黑莓植物 04
+plantBlackBerry05,黑莓植物 05
+plantFern00,蕨类植物 00
+plantFern01,蕨类植物 01
+plantFern02,蕨类植物 02
+plantFern03,蕨类植物 03
+plantIvy00,常春藤植物 00
+plantIvy01,常春藤植物 01
+plantIvy02,常春藤植物 02
+plantLilly00,百合植物 00
+plantLilly01,百合植物 01
+plantGalinsoga00,马齿苋植物 00
+plantGalinsoga01,马齿苋植物 01
+plantGalinsoga02,马齿苋植物 02
+plantLeaves00,叶子 00
+plantLeaves01,叶子 01
+plantLeaves02,叶子 02
+plantLeaves03,叶子 03
+plantLeaves04,叶子 04
+plantLeaves05,叶子 05
+plantMoss00,苔藓 00
+plantMoss01,苔藓 01
+boulderResource00,资源巨石 00
+boulderResource01,资源巨石 01
+boulderResource02,资源巨石 02
+boulderResource03,资源巨石 03
+boulderResource04,资源巨石 04
+boulderResource05,资源巨石 05
+boulderResource06,资源巨石 06
+boulderResource07,资源巨石 07
+boulderResource08,资源巨石 08
+boulderResource09,资源巨石 09
+rockSmallResource00,小石头 00
+rockSmallResource01,小石头 01
+rockSmallResource02,小石头 02
+rockSmallResource03,小石头 03
+branch00,树枝 00
+branch01,树枝 01
+branch02,树枝 02
+branch03,树枝 03
+branch04,树枝 04
+branch05,树枝 05
+branch06,树枝 06
+branch07,树枝 07
+branch08,树枝 08
+treeStump00,树桩 00
+treeStump01,树桩 01
+treeStump02,树桩 02
+treeStump03,树桩 03
+treeStump04,树桩 04
+decoRoadRandomHelper,装饰道路随机辅助
+treeLog00,树干 00
+treeLog01,树干 01
+cntBarrelGroupDesc,桶可以被掠夺，如果被敌人击中或被没有收获标签的工具（如枪）破坏，则会爆炸。\n玩家可能会根据桶的类型受到范围减益效果。
+decoPumpkinJackOLanternDesc,必备的吓唬敌人的道具。
+fakeCabinetDoorTrapGroupDesc,敌人可以看到这个方块。其用途是隐藏在里面的敌人可以看到玩家并从衣柜中冲出来。
+fencesGroupDesc,围栏和护栏可以防止邻居进入。同样有助于防止从高处跌落。
+fabricator,制造机
+fabricatorDesc,将有机材料合成可用物品。\n\n使用锻造铁维修。
+bladeTrapDesc,用于将敌人分解成许多碎片。\n\n使用锻造钢维修。
+mineAirFilterDesc,放置炸弹后小心退后。将机器人变成废铁！
+mineEMP,电磁脉冲炸弹
+mineEMPDesc,产生电磁脉冲，暂时禁用附近的敌人。同样禁用机甲的武器一段时间。
+forgeDesc,用于熔炼金属以制作工具和武器或石头以制作水泥。安装工具以提高性能或解锁配方。\n\n使用废铁维修。
+plantedCropsGroupDesc,将这些种子种植在农田或肥沃的土地上，以生长可供收获的植物。
+burningBarrelPlayerDesc,靠近时开放火焰会提供一些热量。对热量图没有影响。
+xuiTargetZombies,目标敌人
+xuiZombieKills,敌人击杀数
+xuiRoboticAnimals,机械动物
+xuiEnemies,敌人
+xuiRobots,机器人
+xuiOverchargedRobots,超载机器人
+xuiRadiatedRobots,辐射机器人
+xuiInfernoRobots,烈焰机器人
+xuiShockerRobots,电击机器人
+xuiSpiderBots,蜘蛛机器人
+xuiRobotDogs,机器狗
+xuiDrones,无人机
+xuiDroids,战斗机器人
+xuiMechs,机甲
+xuiForgeAheadMagazine,前进锻造杂志
+statCraftingSmeltTimeBlastFurnace,高炉熔炼速度
+statCraftingTimeBlastFurnace,高炉制作速度
+statNausea,恶心几率
+statHealthLoss,伤害抵抗
+statBurnAOERadius,燃烧AOE半径（米）
+statFoodPoisoningRisk,食物中毒风险
+statCureRadiationSickness,治愈辐射病
+statCureNausea,治愈恶心
+statEmpath,共情
+statCybernetician,赛博医师
+statCosmotech,宇宙科技
+statExomedic,外星医生
+statMiner69r,矿工69号
+statNeonaut,新宇航员
+statEntityDamageShock,电击伤害
+statNerdDamage,机器人/棍棒武器伤害
+buffNauseaName,恶心
+buffNauseaDesc,服用过多药物后感到恶心。\n使用维生素治愈。\n\n最大生命值和耐力降低25%。所有属性降低2。
+buffFlaregunAirdropName,即将空投
+buffFlaregunAirdropDesc,"空投正在前往你的位置，请注意天空。"
+buffFlaregunAirdropTooltip,你有一个即将到达的空投。
+buffRadiation02UntreatedName,急性辐射病
+buffRadiation02UntreatedDesc,你患有急性辐射病。如果不治疗，可能会导致严重的急性辐射病，导致死亡。\n\n耐力恢复减少25%。
+buffRadiation03UntreatedName,严重急性辐射病
+buffRadiation03UntreatedDesc,你患有危及生命的严重急性辐射病。立即服药。\n\n耐力恢复减少35%，所有属性降低1。
+buffRadiationProtectionName,辐射防护
+buffRadiationProtectionDesc,你受到进一步辐射暴露的保护。
+buffRadiationSourceName,有害辐射源
+buffRadiationSourceDesc,"你暴露在一个有害辐射源下，你的辐射水平将在短时间内迅速上升。"
+buffRadiationSourceTooltip,你暴露在一个有害辐射源下！
+buffAcidRainName,放射性酸雨
+buffAcidRainDesc,"你暴露在放射性酸雨中，尽快寻找避难所以避免有害辐射暴露。"
+buffAcidRainTooltip,"你暴露在放射性酸雨中，尽快寻找避难所！"
+buffHeadShotsOnlyDesc,你没看过任何外星电影吗？瞄准头部！这是唯一确定的方法。
+buffWeaponOverheatCooldownName,武器过热
+buffWeaponOverheatCooldownDesc,你的武器已经过热，需要冷却后才能再次使用。
+buffWeaponOverheatCooldownTooltip,你的武器已经过热！
+buffInfection01GetBetterDesc,你有一个已治疗的轻微感染。继续服药直到感染完全消除。\n被僵尸击中会使感染恶化。
+buffInfection01UntreatedDesc,你有一个轻微感染。\n未经治疗会恶化。\n被僵尸击中会使感染恶化。
+buffInfection02GetBetterDesc,你有一个已治疗的严重感染。继续服药并密切关注伤口。\n被僵尸击中会使感染恶化。\n\n耐力恢复减少12.5%。
+buffInfection02UntreatedDesc,你有一个严重感染。如果不治疗，可能会导致致命的感染。尽快服药。\n被僵尸击中会使感染恶化。\n\n耐力恢复减少25%。
+drugAntiRadiation,抗辐射药片
+drugAntiRadiationDesc,抗辐射药片可以降低你的辐射暴露并治愈急性辐射病。它还能在一段时间内保护你免受进一步的辐射暴露。\n\n可以在篝火旁的烧杯中制作。
+drugAdvancedAntiRadiation,高级抗辐射药片
+drugAdvancedAntiRadiationDesc,高级抗辐射药片可以完全去除任何辐射暴露并治愈急性辐射病。它还能在几天内保护你免受进一步的辐射暴露。\n\n可以在化学站制作。
+drugDevRadiation,辐射测试药
+drugDevRadiationDesc,一种增加你辐射量的开发用辐射药。
+drugVitaminsDesc,"这些维生素可以治愈恶心和疲劳，并防止你患上感染、痢疾、恶心或疲劳。"
+foodEggRotten,腐烂的蛋
+foodEggRottenDesc,腐烂的蛋闻起来很糟糕。你最好不要吃这东西。
+drinkJarEmpty,空水罐
+drinkJarEmptyDesc,一个空的玻璃罐可以在水源处使用次级动作装满水或用于其他配方。
+torchPlayerGroupDesc,像火炬这样的开放火焰和闪烁灯光会吸引不必要的注意力。（蜡烛则不会那么明显）
+lanternLight_playerDesc,这款油灯可以提供光线而不会有闪烁，从而避免吸引不必要的注意力。
+candleDesc,蜡烛可以用作光源或放置在墙上。这可能会吸引不必要的注意力。
+toolBustlePipe,繁忙管道
+toolBustlePipeDesc,一种可以安装在高炉中的工具。它可以增加气流，从而提高高炉的熔炼速度。
+toolPreHeater,预热器
+toolPreHeaterDesc,一种可以安装在高炉中的工具。它可以提高该高炉的制作速度。
+resourceCobalt,原始钴
+resourceCobaltDesc,"用于制作、锻造、维修和升级墙壁的核心资源。比钢铁更坚固。"
+resourceForgedCobalt,锻造钴
+resourceForgedCobaltDesc,可以在安装了坩埚升级的高炉中制作。钴用于制作最强的物品。
+resourceCharcoal,木炭
+resourceCharcoalDesc,可以通过在篝火中燃烧木材制成。是制作信号弹的关键成分。
+resourceNanoChip,纳米芯片
+resourceNanoChipDesc,一种小型计算机芯片。用于制造高科技设备。
+resourceFertilizerCell,肥料单元
+resourceFertilizerCellDesc,肥料单元与农具结合使用，在肥沃的土地上种植作物。\n使用次级动作 [action:local:Secondary]。
+resourceBoneDesc,一种来自已灭绝物种的普通骨头。大概。
+resourceRockSmallDesc,"用于多种配方，包括石斧和篝火。可以扔向敌人以分散注意力，也是核心锻造资源。"
+resourceSnowBallDesc,你知道该怎么做！将其变成顶级的尤加果汁冰沙。\n可以扔向敌人以分散注意力。
+resourceFeatherDesc,羽毛主要在鸟巢中找到或在制造机中制作。可用于制作箭矢和十字弓箭。
+resourceCobaltBundle,一捆原始钴（6000）
+resourceCobaltBundleDesc,这是一个紧凑的原始钴堆。使用此物品打开并解包。
+resourceClayLumpBundle,一堆黏土（6000）
+resourceClayLumpBundleDesc,这是一个紧凑的黏土堆。使用此物品打开并解包。
+resourceCrushedSandBundle,一堆碎砂（6000）
+resourceCrushedSandBundleDesc,这是一个紧凑的碎砂堆。使用此物品打开并解包。
+gunBowT0PrimitiveBowDesc,适合潜行和远程杀敌。使用箭矢作为弹药。\n按住重新装填键可使用替代弹药。\n\n使用木头修理。\n拆解为木头。
+gunBowT1WoodenBowDesc,适合潜行和远程杀敌。使用箭矢作为弹药。\n按住重新装填键可使用替代弹药。\n\n使用修理工具修理。\n拆解为弓/十字弓部件。
+gunHandgunT1Flaregun,紧急信号枪
+gunHandgunT1FlaregunDesc,紧急信号枪在户外发射时有30%的概率召唤空投。空投在尸潮之夜不会发送。请注意，这也可能吸引不必要的注意力。\n\n使用修理工具修理。\n拆解为手枪部件。
+gunHandgunFarmT1LaserFarmingTool,农业工具
+gunHandgunFarmT1LaserFarmingToolDesc,使用主要动作 [action:local:Primary] 清除草地。\n使用次要动作 [action:local:Secondary] 施肥，需要肥料单元。\n\n使用修理工具修理。\n拆解为电动工具部件。
+gunMGT2LaserAssaultRifle,激光突击步枪
+gunMGT2LaserAssaultRifleDesc,这把激光突击步枪使用重型能量电池。\n\n使用修理工具修理。\n拆解为机枪部件。
+gunRifleT2LaserSniperRifle,激光狙击步枪
+gunRifleT2LaserSniperRifleDesc,"这把高精度、长射程的狙击步枪非常适合远距离狙杀敌人。\n\n使用修理工具修理。\n拆解为步枪部件。"
+gunHandgunT2LaserPistol,激光手枪
+gunHandgunT2LaserPistolDesc,一把使用纳米能量电池的重型手枪。\n\n使用修理工具修理。\n拆解为手枪部件。
+gunHandgunT2LaserSMG,激光SMG
+gunHandgunT2LaserSMGDesc,这把冲锋枪使用纳米能量电池。\n\n使用修理工具修理。\n拆解为手枪部件。
+gunShotgunT2LaserShotgun,激光霰弹枪
+gunShotgunT2LaserShotgunDesc,这把半自动霰弹枪是一种罕见且威力巨大的短程武器，能够烧毁路径上的任何东西。\n\n使用修理工具修理。\n拆解为霰弹枪部件。
+gunHandgunT2LaserMagnum,激光左轮手枪
+gunHandgunT2LaserMagnumDesc,这把重型手枪使用纳米能量电池。\n\n使用修理工具修理。\n拆解为手枪部件。
+gunHandgunT3PlasmaPistol,等离子手枪
+gunHandgunT3PlasmaPistolDesc,这把手枪使用纳米能量电池。\n\n使用修理工具修理。\n拆解为手枪部件。
+gunHandgunT3PlasmaMagnum,等离子左轮手枪
+gunHandgunT3PlasmaMagnumDesc,等离子左轮手枪是手枪之王。它是威力最大的，但噪音也最大。它使用纳米能量电池。\n\n使用修理工具修理。\n拆解为手枪部件。
+gunShotgunT3PlasmaShotgun,等离子霰弹枪
+gunShotgunT3PlasmaShotgunDesc,这把长管泵动霰弹枪使用霰弹能量电池。\n\n使用修理工具修理。\n拆解为霰弹枪部件。
+gunHandgunT3PlasmaSMG,等离子SMG
+gunHandgunT3PlasmaSMGDesc,这把冲锋枪使用纳米能量电池。\n\n使用修理工具修理。\n拆解为手枪部件。
+gunMGT3PlasmaAssaultRifle,等离子突击步枪
+gunMGT3PlasmaAssaultRifleDesc,这把等离子突击步枪使用重型能量电池。\n\n使用修理工具修理。\n拆解为机枪部件。
+gunRifleT3PlasmaSniperRifle,等离子狙击步枪
+gunRifleT3PlasmaSniperRifleDesc,"这把高精度、长射程的狙击步枪非常适合远距离狙杀敌人。\n\n使用修理工具修理。\n拆解为步枪部件。"
+gunExplosivesT3PlasmaGrenadeLauncher,等离子榴弹发射器
+gunExplosivesT3PlasmaGrenadeLauncherDesc,这把等离子榴弹发射器发射榴弹能量电池。\n\n使用修理工具修理。\n拆解为发射器部件。
+gunExplosivesT3PlasmaRocketLauncher,等离子火箭发射器
+gunExplosivesT3PlasmaRocketLauncherDesc,这把等离子火箭发射器发射火箭能量电池。\n\n使用修理工具修理。\n拆解为发射器部件。
+gunHandgunPistolDev,开发者武器: 附近敌人瞬间死亡
+gunHandgunPistolDevDesc,一把开发用手枪，发射时可杀死附近的所有敌人。
+ammoFlareRound,信号弹 (弹药)
+ammoFlareRoundDesc,一种信号弹，户外发射时有30%的概率召唤空投。空投在尸潮之夜不会发送。请注意，这也可能吸引不必要的注意力。可在工作台制作。
+ammoNanoEnergyCell,纳米能量电池 (弹药)
+ammoNanoEnergyCellDesc,纳米能量电池用作手枪的弹药。可在工作台制作。\n制作时为一组5个。
+ammoHeavyEnergyCell,重型能量电池 (弹药)
+ammoHeavyEnergyCellDesc,重型能量电池用作步枪和机枪的弹药。可在工作台制作。\n制作时为一组5个。
+ammoShotgunEnergyCell,霰弹能量电池 (弹药)
+ammoShotgunEnergyCellDesc,霰弹能量电池用作霰弹枪的弹药。可在工作台制作。\n制作时为一组5个。
+ammoNanoEnergyCellAP,AP 纳米能量电池 (弹药)
+ammoNanoEnergyCellAPDesc,穿甲弹特别适用于对抗装甲目标，但会对枪械造成更多磨损。它可以穿透一个敌人或一个250点耐久度的障碍物，继续伤害后面的敌人。\n制作时为一组5个。
+ammoHeavyEnergyCellAP,AP 重型能量电池 (弹药)
+ammoHeavyEnergyCellAPDesc,穿甲弹特别适用于对抗装甲目标，但会对枪械造成更多磨损。它可以穿透一个敌人或一个250点耐久度的障碍物，继续伤害后面的敌人。\n制作时为一组5个。
+ammoShotgunEnergyCellAP,AP 霰弹能量电池 (弹药)
+ammoShotgunEnergyCellAPDesc,穿甲霰弹发射单个弹丸。\n超过有效射程后伤害急剧下降。\n按住重新装填键可使用替代弹药。\n制作时为一组5个。
+ammoGrenadeEnergyCell,榴弹能量电池 (弹药)
+ammoGrenadeEnergyCellDesc,榴弹能量电池用作榴弹发射器的弹药。可在工作台制作。\n制作时为一组5个。
+ammoRocketEnergyCell,火箭能量电池 (弹药)
+ammoRocketEnergyCellDesc,火箭能量电池用作火箭发射器的弹药。可在工作台制作。\n制作时为一组5个。
+thrownGrenadeEMP,电磁脉冲手榴弹
+thrownGrenadeEMPDesc,拉掉销子，投掷。产生电磁脉冲，暂时禁用附近的敌人。同时禁用机甲的武器一段时间。\n使用次要动作 [action:local:Secondary] 引爆。\n使用主要动作 [action:local:Primary] 投掷。
+thrownTimedChargeDesc,"一种用于精细工作的成形炸药，例如炸开保险箱或门锁。5秒后自动引爆。想要摧毁房屋？试试炸药吧。\n使用次要动作 [action:local:Secondary] 引爆。\n使用主要动作 [action:local:Primary] 投掷。"
+ammoBundleNanoEnergyCell,一盒纳米能量电池（100发）
+ammoBundleNanoEnergyCellAP,一盒穿甲纳米能量电池（100发）
+ammoBundleHeavyEnergyCell,一盒重型能量电池（100发）
+ammoBundleHeavyEnergyCellAP,一盒穿甲重型能量电池（100发）
+ammoBundleShotgunEnergyCell,一盒霰弹能量电池（100发）
+ammoBundleShotgunEnergyCellAP,一盒穿甲霰弹能量电池（100发）
+meleeWpnClubT2LaserClub,激光棍
+meleeWpnClubT2LaserClubDesc,激光棍非常耐用且打击力强。\n\n使用修理工具修理。\n拆解为棍棒部件。
+meleeWpnBladeT2LaserKnife,激光匕首
+meleeWpnBladeT2LaserKnifeDesc,非常适合收割植物和小树。\n使用修理工具修理。\n拆解为刀刃部件。
+meleeWpnSledgeT2LaserSledgehammer,激光大锤
+meleeWpnSledgeT2LaserSledgehammerDesc,锤子是敲碎头颅的最佳武器之一。\n\n使用修理工具修理。\n拆解为锤子部件。
+meleeWpnBladeT2LaserSword,激光剑
+meleeWpnBladeT2LaserSwordDesc,非常适合收割植物和砍杀敌人。\n使用修理工具修理。\n拆解为刀刃部件。
+meleeWpnBatonT2LaserStunBaton,激光电击棒
+meleeWpnBatonT2LaserStunBatonDesc,发出“滋滋”声。\n\n使用修理工具修理。\n拆解为电击棒部件。
+meleeWpnSpearT2LaserSpear,激光长矛
+meleeWpnSpearT2LaserSpearDesc,长矛比其他近战武器具有更大的攻击范围。\n使用修理工具修理。\n拆解为长矛部件。
+meleeWpnClubT3PlasmaClub,等离子棒
+meleeWpnClubT3PlasmaClubDesc,等离子棍非常耐用且打击力强。\n\n使用修理工具修理。\n拆解为棍棒部件。
+meleeWpnBladeT3PlasmaKnife,等离子匕首
+meleeWpnBladeT3PlasmaKnifeDesc,非常适合收割植物和小树。\n使用修理工具修理。\n拆解为铁。
+meleeWpnSledgeT3PlasmaSledgehammer,等离子大锤
+meleeWpnSledgeT3PlasmaSledgehammerDesc,锤子是敲碎头颅的最佳武器之一。\n\n使用修理工具修理。\n拆解为铁。
+meleeWpnBladeT3PlasmaSword,等离子剑
+meleeWpnBladeT3PlasmaSwordDesc,非常适合收割植物和砍杀敌人。\n使用修理工具修理。\n拆解为刀刃部件。
+meleeWpnBatonT3PlasmaBaton,等离子电击棒
+meleeWpnBatonT3PlasmaBatonDesc,发出“滋滋”声。\n\n使用修理工具修理。\n拆解为电击棒部件。
+meleeWpnSpearT3PlasmaSpear,等离子长矛
+meleeWpnSpearT3PlasmaSpearDesc,长矛比其他近战武器具有更大的攻击范围。\n\n使用修理工具修理。\n拆解为铁。
+meleeToolAxeT3PlasmaFireaxe,等离子消防斧
+meleeToolAxeT3PlasmaFireaxeDesc,等离子消防斧非常适合砍伐木材。\n\n使用修理工具修理。\n拆解为工具部件。
+meleeToolPickT3PlasmaPickaxe,等离子镐
+meleeToolPickT3PlasmaPickaxeDesc,等离子镐非常适合挖掘石头和采集矿物。\n\n使用修理工具修理。\n拆解为工具部件。
+meleeToolShovelT3PlasmaShovel,等离子铲
+meleeToolShovelT3PlasmaShovelDesc,"等离子铲非常耐用，非常适合挖掘泥土、沙子、雪和矿石。\n\n使用修理工具修理。\n拆解为工具部件。"
+meleeToolPickT3PlasmaMiningTool,等离子采矿枪
+meleeToolPickT3PlasmaMiningToolDesc,等离子采矿枪是采矿和伐木的终极多功能工具。\n\n使用修理工具修理。\n拆解为电动工具部件。
+meleeWpnBladeT0BoneKnifeDesc,这种原始的临时武器适合收割植物。\n普通攻击造成1次机械伤害，强力攻击至少造成2次。\n使用骨头修理。\n拆解为骨头。
+meleeWpnBladeT1HuntingKnife,铁匕首
+meleeWpnBladeT1HuntingKnifeDesc,非常适合收割植物和砍杀敌人。\n普通攻击造成1次机械伤害，强力攻击至少造成2次。\n使用修理工具修理。\n拆解为铁。
+meleeWpnBladeT1CandyKnifeDesc,是时候进入节日氛围，开始刺击了！\n普通攻击造成1次机械伤害，强力攻击至少造成2次。\n\n使用修理工具修理。
+meleeWpnBladeT3MacheteDesc,非常适合砍杀敌人和收割植物。\n普通攻击造成1次机械伤害，强力攻击至少造成2次。\n使用修理工具修理。\n拆解为刀刃部件。
+meleeToolTorchDesc,这个火把可以用作光源或武器，有一定几率点燃敌人。使用次要动作放置。可能会吸引不必要的注意。
+gunExplosivesT3RocketLauncherParts,发射器零件
+meleeWpnBladeT3MacheteParts,刀刃零件
+meleeWpnSpearT3SteelSpearParts,长矛零件
+meleeWpnClubT3SteelClubParts,棍棒零件
+meleeWpnSledgeT3SteelSledgehammerParts,锤子零件
+meleeToolAllSteelParts,工具零件
+vehicleMuscleCarPlaceable,肌肉车
+vehicleMuscleCarChassis,肌肉车 底盘
+vehiclePickupTruckPlaceable,皮卡
+vehiclePickupTruckChassis,皮卡 底盘
+vehicleLuxurySedanPlaceable,豪华轿车
+vehicleLuxurySedanChassis,豪华轿车 底盘
+vehicleHoverCarPlaceable,悬浮车
+vehicleHoverCarChassis,悬浮车 底盘
+armorNerdGlovesDesc,重装甲\n保护那些冰冷潮湿的手不受环境影响，成为知识型硬汉。使用机器人武器和电击棒时造成的伤害更高。\n\n全套奖励：工具和武器耐久度降低更慢。
+foodShamChowderDesc,山威杂烩，味道绝佳，还能长胸毛！
+resourceTestosteroneExtract,合成睾酮素
+resourceTestosteroneExtractDesc,一种用于制造类固醇的人工化合物。
+attuniversalperks,通用特权
+attUniversalPerksName,通用特权
+attUniversalPerksDesc,通用特权 包含广泛的各种技能。
+attUniversalPerksRank1Desc,等级 1
+attUniversalPerksRank2Desc,等级 2
+attUniversalPerksRank3Desc,等级 3
+attUniversalPerksRank4Desc,等级 4
+attUniversalPerksRank5Desc,等级 5
+attempath,读心者
+attEmpathName,读心者
+attEmpathDesc,读心者 广为人知是因为他们的智力和魅力。提高 读心者 可以增加使用受其影响的武器（如步枪和电击棒）时的头部伤害。
+attEmpathRank1Desc,等级 1
+attEmpathRank2Desc,等级 2
+attEmpathRank3Desc,等级 3
+attEmpathRank4Desc,等级 4
+attEmpathRank5Desc,等级 5
+attcybernetician,控制论
+attCyberneticianName,控制论
+attCyberneticianDesc,控制论 专注于重型武器和机器人的制造与维修。提高 控制论 可以增加使用受其影响的武器（如机枪和指虎）时的头部伤害。
+attCyberneticianRank1Desc,等级 1
+attCyberneticianRank2Desc,等级 2
+attCyberneticianRank3Desc,等级 3
+attCyberneticianRank4Desc,等级 4
+attCyberneticianRank5Desc,等级 5
+attcosmotech,宇宙科技
+attCosmotechName,宇宙科技
+attCosmotechDesc,宇宙科技 专注于车辆维修和材料回收。提高 宇宙科技 可以增加使用受其影响的武器（如棍棒和霰弹枪）时的头部伤害。
+attCosmotechRank01Desc,等级 1
+attCosmotechRank02Desc,等级 2
+attCosmotechRank03Desc,等级 3
+attCosmotechRank04Desc,等级 4
+attCosmotechRank05Desc,等级 5
+attexomedic,外科医生
+attExomedicName,外科医生
+attExomedicDesc,外科医生 专注于健身和治疗伤害。提高 外科医生 可以增加使用受其影响的武器（如刀刃和手枪）时的头部伤害。
+attExomedicRank01Desc,等级 1
+attExomedicRank02Desc,等级 2
+attExomedicRank03Desc,等级 3
+attExomedicRank04Desc,等级 4
+attExomedicRank05Desc,等级 5
+attastrominer,天文矿工
+attAstrominerName,天文矿工
+attAstrominerDesc,天文矿工 专注于采矿和资源提取。提高 天文矿工 可以增加使用受其影响的武器（如锤子和爆炸物）时的头部伤害。
+attAstrominerRank01Desc,等级 1
+attAstrominerRank02Desc,等级 2
+attAstrominerRank03Desc,等级 3
+attAstrominerRank04Desc,等级 4
+attAstrominerRank05Desc,等级 5
+attneonaut,霓虹科技
+attNeonautName,霓虹科技
+attNeonautDesc,霓虹科技 专注于多行星探索和新物种发现。提高 霓虹科技 可以增加使用受其影响的武器（如弓和长矛）时的头部伤害。
+attNeonautRank01Desc,等级 1
+attNeonautRank02Desc,等级 2
+attNeonautRank03Desc,等级 3
+attNeonautRank04Desc,等级 4
+attNeonautRank05Desc,等级 5
+reqUniversalPerksLevel01,通用特权 等级 1
+reqUniversalPerksLevel02,通用特权 等级 2
+reqUniversalPerksLevel03,通用特权 等级 3
+reqUniversalPerksLevel04,通用特权 等级 4
+reqUniversalPerksLevel05,通用特权 等级 5
+reqEmpathLevel01,读心者 等级 1
+reqEmpathLevel02,读心者 等级 2
+reqEmpathLevel03,读心者 等级 3
+reqEmpathLevel04,读心者 等级 4
+reqEmpathLevel05,读心者 等级 5
+reqCyberneticianLevel01,控制论 等级 1
+reqCyberneticianLevel02,控制论 等级 2
+reqCyberneticianLevel03,控制论 等级 3
+reqCyberneticianLevel04,控制论 等级 4
+reqCyberneticianLevel05,控制论 等级 5
+reqCosmotechLevel01,宇宙科技 等级 1
+reqCosmotechLevel02,宇宙科技 等级 2
+reqCosmotechLevel03,宇宙科技 等级 3
+reqCosmotechLevel04,宇宙科技 等级 4
+reqCosmotechLevel05,宇宙科技 等级 5
+reqExomedicLevel01,Exomedic 等级 1
+reqExomedicLevel02,Exomedic 等级 2
+reqExomedicLevel03,Exomedic 等级 3
+reqExomedicLevel04,Exomedic 等级 4
+reqExomedicLevel05,Exomedic 等级 5
+reqAstrominerLevel01,外科医生 等级 1
+reqAstrominerLevel02,外科医生 等级 2
+reqAstrominerLevel03,外科医生 等级 3
+reqAstrominerLevel04,外科医生 等级 4
+reqAstrominerLevel05,外科医生 等级 5
+reqNeonautLevel01,霓虹科技 等级 1
+reqNeonautLevel02,霓虹科技 等级 2
+reqNeonautLevel03,霓虹科技 等级 3
+reqNeonautLevel04,霓虹科技 等级 4
+reqNeonautLevel05,霓虹科技 等级 5
+perkGreatHeistCompleteDesc,开锁总是成功。开锁速度提高 20%。
+perkGreatHeistCompleteLongDesc,"开锁：即使还有法律存在，你也已经在打破它们！掌握开锁技巧，开锁速度提高 20%。开锁工具永远不会损坏。"
+attEmpathRank1LongDesc,"使用步枪和电击棒时，头部伤害提高至 200%，并有 5% 的机会肢解敌人。"
+attEmpathRank2LongDesc,"使用步枪和电击棒时，头部伤害提高至 210%，并有 10% 的机会肢解敌人。"
+attEmpathRank3LongDesc,"使用步枪和电击棒时，头部伤害提高至 220%，并有 15% 的机会肢解敌人。"
+attEmpathRank4LongDesc,"使用步枪和电击棒时，头部伤害提高至 230%，并有 20% 的机会肢解敌人。"
+attEmpathRank5LongDesc,"使用步枪和电击棒时，头部伤害提高至 240%，并有 25% 的机会肢解敌人。"
+attCyberneticianRank1LongDesc,"使用机枪和机器人炮塔时，头部伤害提高至 200%，并有 5% 的机会肢解敌人。"
+attCyberneticianRank2LongDesc,"使用机枪和机器人炮塔时，头部伤害提高至 210%，并有 10% 的机会肢解敌人。"
+attCyberneticianRank3LongDesc,"使用机枪和机器人炮塔时，头部伤害提高至 220%，并有 15% 的机会肢解敌人。"
+attCyberneticianRank4LongDesc,"使用机枪和机器人炮塔时，头部伤害提高至 230%，并有 20% 的机会肢解敌人。"
+attCyberneticianRank5LongDesc,"使用机枪和机器人炮塔时，头部伤害提高至 240%，并有 25% 的机会肢解敌人。"
+attCosmotechRank01LongDesc,"使用棍棒和霰弹枪时，头部伤害提高至 200%，并有 5% 的机会肢解敌人。"
+attCosmotechRank02LongDesc,"使用棍棒和霰弹枪时，头部伤害提高至 210%，并有 10% 的机会肢解敌人。"
+attCosmotechRank03LongDesc,"使用棍棒和霰弹枪时，头部伤害提高至 220%，并有 15% 的机会肢解敌人。"
+attCosmotechRank04LongDesc,"使用棍棒和霰弹枪时，头部伤害提高至 230%，并有 20% 的机会肢解敌人。"
+attCosmotechRank05LongDesc,"使用棍棒和霰弹枪时，头部伤害提高至 240%，并有 25% 的机会肢解敌人。"
+attExomedicRank01LongDesc,"使用刀刃和手枪时，头部伤害提高至 200%，并有 5% 的机会肢解敌人。"
+attExomedicRank02LongDesc,"使用刀刃和手枪时，头部伤害提高至 210%，并有 10% 的机会肢解敌人。"
+attExomedicRank03LongDesc,"使用刀刃和手枪时，头部伤害提高至 220%，并有 15% 的机会肢解敌人。"
+attExomedicRank04LongDesc,"使用刀刃和手枪时，头部伤害提高至 230%，并有 20% 的机会肢解敌人。"
+attExomedicRank05LongDesc,"使用刀刃和手枪时，头部伤害提高至 240%，并有 25% 的机会肢解敌人。"
+attAstrominerRank01LongDesc,"使用锤子和爆炸物时，头部伤害提高至 200%，并有 5% 的机会肢解敌人。"
+attAstrominerRank02LongDesc,"使用锤子和爆炸物时，头部伤害提高至 210%，并有 10% 的机会肢解敌人。"
+attAstrominerRank03LongDesc,"使用锤子和爆炸物时，头部伤害提高至 220%，并有 15% 的机会肢解敌人。"
+attAstrominerRank04LongDesc,"使用锤子和爆炸物时，头部伤害提高至 230%，并有 20% 的机会肢解敌人。"
+attAstrominerRank05LongDesc,"使用锤子和爆炸物时，头部伤害提高至 240%，并有 25% 的机会肢解敌人。"
+attNeonautRank01LongDesc,"使用弓和长矛时，头部伤害提高至 200%，并有 5% 的机会肢解敌人。"
+attNeonautRank02LongDesc,"使用弓和长矛时，头部伤害提高至 210%，并有 10% 的机会肢解敌人。"
+attNeonautRank03LongDesc,"使用弓和长矛时，头部伤害提高至 220%，并有 15% 的机会肢解敌人。"
+attNeonautRank04LongDesc,"使用弓和长矛时，头部伤害提高至 230%，并有 20% 的机会肢解敌人。"
+attNeonautRank05LongDesc,"使用弓和长矛时，头部伤害提高至 240%，并有 25% 的机会肢解敌人。"
+perkFlurryOfBlowsDesc,专精于快速挥动近战武器，在激烈的连续攻击中击败对手。
+perkFlurryOfBlowsRank1LongDesc,"你的手速得到了提升。所有近战攻击速度提高了 10%。"
+perkFlurryOfBlowsRank2LongDesc,"你掌握了突然袭击。所有近战攻击速度提高了 17%。"
+perkFlurryOfBlowsRank3LongDesc,你已经掌握了快速打击。所有攻击速度提高了 25%。每次击杀恢复 30 点耐力。
+perkWasteTreasuresHoneyLongDesc,蜂蜜：它给你能量并提升你的耐力。我学到了一个在砍伐树木时有时可以获取蜂蜜的小技巧。
+perkWasteTreasuresCompleteDesc,找到更多的护甲制作套件。
+perkWasteTreasuresCompleteLongDesc,护甲制作套件：所有最好的护甲部件都是用护甲制作套件制作的。增加你在战利品中找到护甲制作套件的机会。
+perkSpearHunter0Desc,"拥抱你的赛博本质，解锁神秘的激光狩猎领域，将古老的矛猎传统与未来科技相结合。"
+perkSpearHunter3BleedDesc,长矛有 25% 的几率造成机械伤害。
+perkSpearHunter3BleedLongDesc,机械伤害：长矛有 25% 的几率造成机械伤害。
+perkDeepCutsName,致命之刃
+perkDeepCutsDesc,专精于使用刀刃武器（如刀或砍刀，但不包括斧头）对敌人造成机械伤害。
+perkDeepCutsRank1LongDesc,"你的刀刃可能有些钝，但你知道如何使用它。刀刃武器伤害增加 10%。对敌人造成最多 3 次机械伤害，强力攻击造成 2 次。每次攻击刷新机械伤害持续时间。受伤的敌人移动速度降低 10%。耐力消耗减少 8%，强力攻击减少 15%。在战利品中找到更多刀刃武器和部件。"
+perkDeepCutsRank2LongDesc,你的朋友们说你真的是个刀手。刀刃武器伤害增加 20%。对敌人造成最多 4 次机械伤害，强力攻击造成 3 次。耐力消耗减少 15%，强力攻击减少 30%。在战利品中找到更多刀刃武器和部件。
+perkDeepCutsRank3LongDesc,"你是一个量子动力奇迹，每一次精确的动作超越平凡，超越了普通程序的限制。刀刃武器伤害增加 30%。对敌人造成最多 5 次机械伤害，强力攻击造成 4 次。擦伤有 40% 的几率造成 1 次机械伤害。受伤的敌人移动速度降低 15%。耐力消耗减少 20%，强力攻击减少 40%。击杀恢复 10 点耐力。在战利品中找到更多刀刃武器和部件。"
+perkDeepCutsRank4LongDesc,你在使用刀刃武器方面非常致命。刀刃武器伤害增加 40%。对敌人造成最多 6 次机械伤害，强力攻击造成 4 次。擦伤有 70% 的几率造成 1 次机械伤害。耐力消耗减少 25%，强力攻击减少 50%。击杀恢复 20 点耐力。在战利品中找到更多刀刃武器和部件。
+perkDeepCutsRank5LongDesc,"你是一个赛博战士，精准地切割敌人，将他们变成字节大小的寿司。刀刃武器伤害增加 50%。对敌人造成最多 7 次机械伤害，强力攻击造成 5 次。所有擦伤造成 1 次机械伤害。受伤的敌人移动速度降低 20%。击杀恢复 30 点耐力。在战利品中找到更多刀刃武器和部件。"
+perkTechJunkie5RepulsorLongDesc,电击排斥模块：为电击棒制作一个电击排斥模块，在充电攻击时将敌人击飞。
+perkWasteTreasuresSinksLongDesc,水槽：敌人太多而子弹太少。这里有一个从水槽和管道中获取更多铅和黄铜的小技巧。
+perkHealingFactorRank3Desc,改造人
+perkHealingFactorRank3LongDesc,你是半机械人吗？每 15 秒通过自然恢复获得 1 点生命值。重伤恢复速度加快 60%。
+perkRuleOneCardioDesc,训练你的身体对抗机器威胁的第一策略：逃跑。
+perkElectrocutionerRank3LongDesc,你用电击棒变得危险了。所有电击棒伤害增加 30%。电击棒电击受害者的时间延长 60%。耐力消耗减少 20%，强力攻击减少 40%。击杀恢复 10 点耐力。在战利品中找到更多电击棒和部件。
+perkPummelPeteRank5LongDesc,"神拳皮特 曾经只用一根棍棒对付 50 名敌人，并且他会为你感到自豪。棍棒伤害增加 50%，攻击对被眩晕的敌人造成 200% 更多伤害，强力攻击有 100% 的几率击倒敌人。击杀恢复 30 点耐力。短时间内连续三次攻击的最后一击造成 100% 额外伤害。在战利品中找到更多棍棒和部件。"
+perkSkullCrusherRank1LongDesc,"你是个强悍的战士！有时候你可以击倒敌人。碎颅锤伤害增加 10%。强力攻击有 15% 的几率击倒敌人。耐力消耗减少 8%，强力攻击减少 15%。在战利品中找到更多碎颅锤和部件。"
+craftingBladesDesc,阅读 [DECEA3]刀侠[-] 会提高制作刀刃的质量。\n提高 [DECEA3]Lethal Blade[-] 的战利品概率。
+perkPistolPeteAPAmmoDesc,制作穿甲弹药。
+perkPistolPeteAPAmmoLongDesc,穿甲弹药：穿甲弹对有装甲的目标造成显著更多的伤害。制作 9mm 穿甲弹和 纳米 穿甲能源电池。
+perkPistolPeteCompleteDesc,近距离射击无视护甲。批量制作 9mm 弹药和 纳米 能源电池。
+perkSniperAPAmmoDesc,制作穿甲弹药。
+perkSniperAPAmmoLongDesc,穿甲弹药：学会制作 7.62mm 穿甲弹和重穿甲能源电池，对有装甲的敌人造成更多伤害。
+perkSniperCompleteDesc,你可以制作伪装服。批量制作所有 7.62mm 弹药和重能源电池。
+perkShotgunMessiahSlugsDesc,你可以制作散弹枪弹丸和穿甲散弹枪能源电池。
+perkShotgunMessiahSlugsLongDesc,散弹枪弹丸和穿甲弹可以穿透多个目标。你可以制作散弹枪弹丸和穿甲散弹枪能源电池。
+perkShotgunMessiahCompleteDesc,你可以一发打碎大多数木块。批量制作所有散弹枪弹药和散弹枪能源电池。
+harvestToolsPlasma,等离子工具
+handgunsPrimitive,原始手枪
+handgunsBasic,基础手枪
+handgunsLaser,激光手枪
+handgunsPlasma,等离子手枪
+explosivesT2-2,第 2 级：接触式手雷和 EMP 手雷
+explosivesT2-3,第 2 级：轮毂盖地雷和 EMP 地雷
+workstationsT6,第 6 级：爆破炉
+workstationsT1-1,第 1 级：集水器和制造台
+workstationsT7,第 7 级：自动采矿机
+medicalT1-3,第 1 级：防辐射药片
+medicalT2-2,第 2 级：识别药剂和草药抗生素
+medicalT2-3,第 2 级：高级防辐射药片
+vehiclesT4,第 4 级：4x4、皮卡、肌肉车和豪华轿车
+vehiclesT5,第 5 级：旋翼机和悬浮车
+useTVOn,{0} 开启电视
+useTVOff,{0} 关闭电视
+blockcommand_nothing,无
+ttSearchContainerBeforePickup,你必须先搜索容器才能捡起它。
+ttEmptyContainerBeforePickup,你必须先清空容器才能捡起它。
+ttEnterWasteland,你已进入 [FF0000]废土[-]，你的被动 [4EE44E]辐射[-] 将随时间增加。
+npcTraderRekt,商人 露娜
+npcTraderLuna,商人 露娜
+vehicleMuscleCar,肌肉车
+vehiclePickupTruck,皮卡
+vehicleLuxurySedan,豪华轿车
+vehicleHoverCar,悬浮车
+robotAndroidPrime,机器人 皮姆
+robotAndroidBolt,机器人 伯特
+robotAndroidAndromeda,机器人 仙女座
+robotAndroidRex,机器人 雷克斯
+robotAndroidChronos,机器人 克罗诺斯
+robotAndroidAxl,机器人 A.X.L
+robotAndroidClank,机器人 叮当
+robotAndroidRalph,机器人 R.A.L.P.H
+robotAndroidEva,机器人 伊娃
+robotAndroidOrion,机器人 猎户座
+robotAndroidPrimeOvercharged,机器人 皮姆 [FFEA00]过载[-]
+robotAndroidBoltOvercharged,机器人 伯特[FFEA00]过载[-]
+robotAndroidAndromedaOvercharged,机器人 仙女座 [FFEA00]过载[-]
+robotAndroidRexOvercharged,机器人 雷克斯 [FFEA00]过载[-]
+robotAndroidChronosOvercharged,机器人 克罗诺斯 [FFEA00]过载[-]
+robotAndroidAxlOvercharged,机器人 A.X.L [FFEA00]过载[-]
+robotAndroidClankOvercharged,机器人 叮当 [FFEA00]过载[-]
+robotAndroidRalphOvercharged,机器人 R.A.L.P.H [FFEA00]过载[-]
+robotAndroidEvaOvercharged,机器人 伊娃 [FFEA00]过载[-]
+robotAndroidOrionOvercharged,机器人 猎户座 [FFEA00]过载[-]
+robotAndroidPrimeShocker,机器人 皮姆 [33CCFF]电击[-]
+robotAndroidBoltShocker,机器人 伯特[33CCFF]电击[-]
+robotAndroidAndromedaShocker,机器人 仙女座 [33CCFF]电击[-]
+robotAndroidRexShocker,机器人 雷克斯 [33CCFF]电击[-]
+robotAndroidChronosShocker,机器人 克罗诺斯 [33CCFF]电击[-]
+robotAndroidAxlShocker,机器人 A.X.L [33CCFF]电击[-]
+robotAndroidClankShocker,机器人 叮当 [33CCFF]电击[-]
+robotAndroidRalphShocker,机器人 R.A.L.P.H [33CCFF]电击[-]
+robotAndroidEvaShocker,机器人 伊娃 [33CCFF]电击[-]
+robotAndroidOrionShocker,机器人 猎户座 [33CCFF]电击[-]
+robotAndroidPrimeInferno,机器人 皮姆 [FFA500]烈焰[-]
+robotAndroidBoltInferno,机器人 伯特[FFA500]烈焰[-]
+robotAndroidAndromedaInferno,机器人 仙女座 [FFA500]烈焰[-]
+robotAndroidRexInferno,机器人 雷克斯 [FFA500]烈焰[-]
+robotAndroidChronosInferno,机器人 克罗诺斯 [FFA500]烈焰[-]
+robotAndroidAxlInferno,机器人 A.X.L [FFA500]烈焰[-]
+robotAndroidClankInferno,机器人 叮当 [FFA500]烈焰[-]
+robotAndroidRalphInferno,机器人 R.A.L.P.H [FFA500]烈焰[-]
+robotAndroidEvaInferno,机器人 伊娃 [FFA500]烈焰[-]
+robotAndroidOrionInferno,机器人 猎户座 [FFA500]烈焰[-]
+robotAndroidPrimeRadiated,机器人 皮姆 [4EE44E]辐射[-]
+robotAndroidBoltRadiated,机器人 伯特[4EE44E]辐射[-]
+robotAndroidAndromedaRadiated,机器人 仙女座 [4EE44E]辐射[-]
+robotAndroidRexRadiated,机器人 雷克斯 [4EE44E]辐射[-]
+robotAndroidChronosRadiated,机器人 克罗诺斯 [4EE44E]辐射[-]
+robotAndroidAxlRadiated,机器人 A.X.L [4EE44E]辐射[-]
+robotAndroidClankRadiated,机器人 叮当 [4EE44E]辐射[-]
+robotAndroidRalphRadiated,机器人 R.A.L.P.H [4EE44E]辐射[-]
+robotAndroidEvaRadiated,机器人 伊娃 [4EE44E]辐射[-]
+robotAndroidOrionRadiated,机器人 猎户座 [4EE44E]辐射[-]
+robotCyborgNova,改造人 诺娃
+robotCyborgSpark,改造人 史派克
+robotCyborgTitan,改造人 泰坦 T-800
+robotCyborgNovaOvercharged,改造人 诺娃 [FFEA00]过载[-]
+robotCyborgSparkOvercharged,改造人 史派克 [FFEA00]过载[-]
+robotCyborgTitanOvercharged,改造人 泰坦 T-800 [FFEA00]过载[-]
+robotCyborgNovaShocker,改造人 诺娃 [33CCFF]电击[-]
+robotCyborgSparkShocker,改造人 史派克 [33CCFF]电击[-]
+robotCyborgTitanShocker,改造人 泰坦 T-800 [33CCFF]电击[-]
+robotCyborgNovaInferno,改造人 诺娃 [FFA500]烈焰[-]
+robotCyborgSparkInferno,改造人 史派克 [FFA500]烈焰[-]
+robotCyborgTitanInferno,改造人 泰坦 T-800 [FFA500]烈焰[-]
+robotCyborgNovaRadiated,改造人 诺娃 [4EE44E]辐射[-]
+robotCyborgSparkRadiated,改造人 史派克 [4EE44E]辐射[-]
+robotCyborgTitanRadiated,改造人 泰坦 T-800 [4EE44E]辐射[-]
+robotDroneNano,纳米无人机
+robotDronePoliceNano,纳米警用无人机
+robotDroneRacing,竞速无人机
+robotDronePolice,警用无人机
+robotDroneSecurity,安保无人机
+robotDroneMothership,母舰无人机
+robotDog,机器狗
+robotCombatDog,战斗狗
+robotAdvancedCombatDog,高级战斗狗
+robotSpiderBot,蜘蛛机器人
+robotSpiderBotNano,纳米蜘蛛机器人
+robotDroidSoldier,士兵机器人
+robotDroidCombat,战斗机器人
+robotDroidBomber,轰炸机器人
+robotMechLightBiped,轻型双足机甲
+robotMechHeavyBiped,重型双足机甲
+robotMechMining,采矿机甲
+robotMechQuadruped,四足机甲
+trader_rekt,商人 露娜
+trader_rekt2,商人 露娜
+quest_BasicSurvival1,基本生存 1/1
+modGunMeleeTheHunterSchematic,灭虫者改装图纸
+modGunMeleeTheHunter,灭虫者改装
+modGunMeleeTheHunterDesc,+25% 对机器人和机甲的伤害。
+modMeleeClubBarbedWireDesc,"20% 的几率造成机械伤害，强力攻击时为 40%。\n可安装在棍棒上。"
+modMeleeSerratedBladeDesc,普通攻击时有 10% 的几率造成机械伤害。
+modMeleeStunBatonRepulsorDesc,将此改装件安装到电击棒中，在充能攻击时让敌人飞出去。
+modMeleeErgonomicGripDesc,减少近战耐力消耗 10%。
+modArmorCigarDesc,看起来更威猛，并从商人那里获得更好的交易。同时提升你的矿工技能！
+goZombieBMMove,敌人血月速度
+goZombieBMMoveDesc,设置敌人的移动模式。默认是在血月期间冲刺。
+goZombieFeralMove,敌人狂暴速度
+goZombieFeralMoveDesc,设置敌人的移动模式。默认是狂暴状态下冲刺。
+goZombieFeralSense,敌人狂暴感知
+goZombieFeralSenseDesc,增加敌人听到或看到你的能力。
+goZombieMove,敌人白天速度
+goZombieMoveDesc,设置敌人的移动模式。默认是在白天行走。
+goZombieMoveNight,敌人夜间速度
+goZombieMoveNightDesc,设置敌人的移动模式。默认是在夜间冲刺。
+goEnemySpawnDesc,敌人生成开启：\n向世界添加敌人。\n\n敌人生成关闭：\n关闭所有敌人的生成。
+goBloodMoonEnemyCountDesc,"这是每个玩家在血月期间可以同时存在的敌人数量。然而，在多人游戏中，MaxSpawnedZombies会覆盖这个数字。\n此外，请注意，游戏阶段设置了每个团队的最大敌人数量。低的游戏阶段值可能导致比BloodMoonEnemyCount设置更少的敌人数量。\n更改此设置会对性能产生巨大影响。请谨慎操作。"
+goBedrollDeadZoneSizeDesc,床铺创建一个敌人不会重生的区域。任何与该区域接触的已清除的睡眠体积在清除后将不再重生。
+goEnemyDifficultyDesc,控制敌人的侵略性。狂暴意味着敌人非常具有侵略性，并且可以在夜间通过墙壁感知到你。
+goGameModeDesc,::生存多人模式::\n与其他玩家对抗或团结起来共同度过末日。使用提供的土地所有权块来保护你的基地免受其他玩家的侵袭。\n\n::生存单人模式::\n独自对抗成群的敌人，探索亚利桑那州纳维兹甘县，揭开真相。
+goLootAbundanceDesc,容器中生成战利品的百分比。
+goMaxSpawnedAnimals,最大机器人动物数量
+goMaxSpawnedAnimalsDesc,一次可以生成多少只机器人动物。
+goMaxSpawnedZombies,最大敌人数量
+goMaxSpawnedZombiesDesc,此设置覆盖整个地图。整个地图上只能存在这么多敌人。\n更改此设置会对性能产生巨大影响。请谨慎操作。
+gmZombieHorde,机器人军团
+gmSurvivalMPDesc,::生存多人模式::\n与其他玩家对抗或团结起来共同度过末日，获取土地所有权以保护你的堡垒免受其他玩家的侵袭。新玩家开始时会有一个土地所有权块，额外的可以制作。
+gmSurvivalSPDesc,::生存单人模式::\n独自对抗成群的敌人，探索亚利桑那州纳维兹甘县，揭开真相。
+quest_clear_completion,真没想到。你真的在关键时刻完成了任务。感谢你消灭了所有敌人。这是你应得的报酬。
+quest_clear_description,前往 [DECEA3]{poi.name}[-] 并清除所有敌人。这个地方对我们很有用。
+quest_clear_response,清除敌人 ([DECEA3]{poi.distance} {poi.direction}[-])
+quest_clear_statement,清除该区域内的所有敌人。
+quest_fetch_clear_completion,真没想到。你真的在关键时刻完成了任务。感谢你消灭了那些敌人并取回了物资。这是你应得的报酬。
+quest_fetch_clear_description,前往 [DECEA3]{poi.name}[-]。消灭所有敌人并取回货物。
+quest_fetch_clear_statement,带回货物并消灭那些敌人。
+quest_infestation_statement,清除该区域内的感染敌人。
+quest_restore_power_description,"前往 [DECEA3]{poi.name}[-] 并重新启动发电机。在此期间清除所有你发现的敌人。"
+quest_tier1_clear_offer,证明你有足够的能力成为白河跑者的成员。我们需要你清除 [DECEA3]{poi.name}[-] 的敌人。
+quest_tier2_clear_offer,"你准备好迎接更多挑战了吗？这次会稍微难一些，但我相信你能搞定。去消灭 [DECEA3]{poi.name}[-] 的所有敌人。"
+quest_tier2_fetch_clear_offer,我们的一名跑者不得不在 [DECEA3]{poi.name}[-] 存放他们的货物。去消灭敌人并取回货物。
+quest_tier1_restore_power_offer,我们找到了一个适合新建前哨站的建筑。前往 [DECEA3]{poi.name}[-] 并重置发电机。清除你发现的所有敌人。
+quest_tier2_restore_power_offer,我们找到了一个适合新建前哨站的建筑。前往 [DECEA3]{poi.name}[-] 并重置发电机。清除你发现的所有敌人。
+quest_tier3_restore_power_offer,我们的社区报告了一个包含重要资源的大型结构。前往 [DECEA3]{poi.name}[-] 并重置发电机。清除你发现的所有敌人。
+quest_tier4_restore_power_offer,我们找到了一个我们认为足够大并且可以满足我们不断增长需求的位置。前往 [DECEA3]{poi.name}[-] 并重置发电机。清除你发现的所有敌人。
+quest_tier2_infested_clear_offer,"我们发现了附近一个高度感染的机器人藏身处。这个地点对我们的生存至关重要。去清除 [DECEA3]{poi.name}[-] 的敌人。记住，它们更多、更快、更难杀死。祝你好运！"
+quest_tier3_clear_offer,你在上次清理工作中干得很出色，但这次可能会更难一些。我相信你能搞定。去消灭 [DECEA3]{poi.name}[-] 的所有敌人。
+quest_tier3_fetch_clear_offer,一名队员在运送物资时被敌人围攻。他们告诉我确切的存放位置 [DECEA3]{poi.name}[-]。去消灭敌人并取回物资。
+quest_tier3_infested_clear_offer,我们的一名跑者报告说我们在 [DECEA3]{poi.name}[-] 的安全屋已经被敌人感染。清除威胁吧，幸存者！
+quest_tier4_clear_offer,你知道该怎么做了。去消灭 [DECEA3]{poi.name}[-] 的所有敌人。
+quest_tier4_fetch_clear_offer,我们需要取回 [DECEA3]{poi.name}[-] 的物资。我们知道它们藏在哪里。去清除敌人并取回物资。
+quest_tier4_infested_clear_offer,我们刚刚得知一群感染的敌人已经消灭了我们在 [DECEA3]{poi.name}[-] 的队伍。准备好所有武器，做好最坏的准备。
+quest_tier5_infested_clear_offer,天哪！一个主要定居点被一群感染的敌人占领了。极度小心地清除 [DECEA3]{poi.name}[-] 的威胁。
+quest_tier6_clear_offer,"这可能是迄今为止最艰难的清理任务，但我知道我可以依靠你。去消灭 [DECEA3]{poi.name}[-] 的所有敌人。祝你好运。"
+quest_tier6_infested_clear_offer,天哪！一个主要定居点被一群感染的敌人占领了。极度小心地清除 [DECEA3]{poi.name}[-] 的威胁。
+quest_tier1_restore_power,一级恢复电力
+quest_restore_power_response,恢复电力 ([DECEA3]{poi.distance} {poi.direction}[-])
+questRewardFarmBundleDesc,"一包农场地块、农具和随机种子。"
+questStarterCapsule,新手胶囊
+questStarterCapsuleDesc,"一个包含生存必需物品的胶囊。"
+questRewardLegendaryBatonCraftingBundle,传奇电击棒制作包
+questRewardLegendaryHandgunCraftingBundle,传奇手枪制作包
+questRewardLegendaryMacheteCraftingBundle,传奇砍刀制作包
+questRewardLegendaryRocketLauncherCraftingBundle,传奇火箭发射器制作包
+questRewardLegendarySteelClubCraftingBundle,传奇铁棍制作包
+questRewardLegendarySteelKnuckleCraftingBundle,传奇指虎制作包
+questRewardLegendarySteelSledgehammerCraftingBundle,传奇大锤制作包
+questRewardLegendarySteelSpearCraftingBundle,传奇长矛制作包
+questRewardLegendarySteelToolsCraftingBundle,传奇工具制作包
+noteDuke01,来自抵抗组织的信
+noteDuke01Desc,"给找到这封信的人，\n\n事情迅速恶化。我们遭到了一群机器人的伏击，无法抵挡。它们像撕纸一样撕裂我们；似乎被编程成要消灭任何生命迹象，无论是活的还是死的。僵尸们有一种奇怪的发光现象；我不知道是什么原因造成的，但无论是什么，都让它们一直活着。我匆匆写下这些，因为我再也坚持不住了。我的装备严重损坏，只会拖累其他人。所以，我决定留在这里。\n\n但是听我说，还有希望。我已经把这个信件和一个胶囊一起隐藏了起来。里面有一些可能对你有用的装备——地图、补给、工具。好好利用它们，为了我们所有人。保持坚强，活下去。我们指望你继续这场战斗。"
+quest_WhiteRiverCitizen1_description,"嘘！进来，游骑兵，\n\n我们截获了你的求救信号，并在你的地图上标记了最近的白河前哨站位置。在那里你会找到一个商人，你可以买卖商品并治疗自己；他们也可能有工作给你。\n\n祝你好运，弗瑞中士"
+quest_white_river_completion,"弗瑞中士派你来的，是吗？好吧，你得展示一下你的能力。\n\n拿上这把铲子，接受你的第一个任务。"
+harvestTip,使用任何带刃的工具或武器（如激光刀）来收割植物和作物。\n使用扳手拆解汽车或机械物品以获取高级资源。\n特质可以在多个领域提高收获产量。
+infectionTip_title,辐射
+infectionTip,"辐射在末日中是一个持续的危险。\n废土中的酸雨是最危险的辐射来源，储备药物是非常推荐的。\n\n辐射会耗尽你的耐力，并在后期也会损害你的属性。如果不治疗，它将在7个游戏日内致命。\n\n使用抗辐射药片可以立即改善状况并减少负面影响。一种治愈方法可以减少辐射百分比，具体数值取决于物品说明。\n\nHUD上的辐射符号会改变颜色以指示你的辐射暴露程度。"
+onFireTip,"某些武器、敌人或环境部分会使你着火。要扑灭火焰，你可以跳入水中，让自己浸没，或者'饮用'一个物品，如水罐。喝水还可以防止10秒内再次着火。"
+airDropTip,空中补给投送通常发生在中午左右。听飞机的声音并跟随蓝色烟雾找到飞机投下的箱子。如果你启用了标记空投选项，也可以在地图上找到标记的补给箱。
+loadingTipMainHUD,"在你的HUD上显示了你的生命值、耐力和辐射水平，分别用红色、蓝色以及绿色、橙色或红色表示辐射，具体取决于你的暴露程度。食物和水的水平显示在工具带右侧的绿色和蓝色条。通过 [action:local:Inventory][action:permanent:Character] 打开角色屏幕查看详细的角色统计信息。"
+loadingTipPickaxes,"镐头非常适合采集各种矿石，如铁、铅、煤、油页岩、硝酸钾和钴。"
+loadingTipBaseUpgrading,"建筑模块可以使用材料和石斧升级为更强的版本。\n最常见的升级材料有：木头、鹅卵石、混凝土混合物、锻造钢和锻造钴。"
+loadingTipHarvestingRobots_title,采集机器人
+loadingTipHarvestingRobots,"使用回收工具采集机器人以获取有用的材料，如电子部件、机械部件等。"
+loadingTipHarvestingNanoChips_title,纳米芯片
+loadingTipHarvestingNanoChips,"纳米芯片是小型计算设备，可以从机器人和高科技车辆中使用回收工具采集。"
+zombie_slayer_name_soldier,士兵猎手
+zombie_slayer_subtitle_soldier,士兵猎手
+exterminator_name,灭虫者
+exterminator_subtitle,灭虫者
+exterminator_name_any_robot,机器人灭虫者
+exterminator_subtitle_any_robot,机器人灭虫者
+exterminator_desc,好样的，游骑兵！你完成了一个灭虫者挑战。\n\n去任何商人那里领取你的奖励。
+exterminator_completion,好样的，游骑兵！你完成了灭虫者挑战组。\n\n去任何商人那里领取你的奖励。
+exterminator_name_overcharged_robot,超载机器人灭虫者
+exterminator_subtitle_overcharged_robot,超载机器人灭虫者
+exterminator_name_radiated_robot,辐射机器人灭虫者
+exterminator_subtitle_radiated_robot,辐射机器人灭虫者
+exterminator_name_inferno_robot,烈焰机器人灭虫者
+exterminator_subtitle_inferno_robot,烈焰机器人灭虫者
+exterminator_name_shocker_robot,电击机器人灭虫者
+exterminator_subtitle_shocker_robot,电击机器人灭虫者
+exterminator_name_spider_bot,蜘蛛机器人灭虫者
+exterminator_subtitle_spider_bot,蜘蛛机器人灭虫者
+exterminator_name_robot_dog,机器人狗灭虫者
+exterminator_subtitle_robot_dog,机器人狗灭虫者
+exterminator_name_drone,无人机灭虫者
+exterminator_subtitle_drone,无人机灭虫者
+exterminator_name_droid,机器人灭虫者
+exterminator_subtitle_droid,机器人灭虫者
+exterminator_name_mech,机甲灭虫者
+exterminator_subtitle_mech,机甲灭虫者
+challengeObjectiveOpen,开放
+challengeKillRewardReading,20000 经验值和各种阅读材料
+challengeKillRewardReadingHardcore,50000 经验值和各种阅读材料
+challengeGroupExterminator,灭虫者
+challengeRewardBonusExterminatorReward,灭虫者奖励
+challengeGroupBasics,基础
+challengeRewardBonusTraderQuest,基础奖励
+challengeKillRobotAnimals,消灭机器动物
+challengeKillRobotAnimalsShort,消灭机器人动物以采集纳米芯片和其他资源。
+challengeKillRobotAnimalsDesc,消灭 [DECEA3]机器动物[-] 可能需要使用 [DECEA3]潜行[-]。\n\n在蹲伏状态下攻击睡觉或未警觉的敌人会应用 [DECEA3]潜行伤害加成[-]。\n\n[DECEA3]潜行伤害加成[-] 在 PvE 中的默认冷却时间为 [DECEA3]10[-] 秒，在 PvP 中为 [DECEA3]60[-] 秒。
+challengeSalvageRobots,采集机器人
+challengeSalvageRobotsShort,使用回收工具从摧毁的机器人中采集资源。
+challengeSalvageRobotsDesc,使用 [DECEA3]扳手[-] 或其他回收工具采集资源。\n\n[DECEA3]特质[-] 可以增加你的采集量。\n\n更强大的 [DECEA3]敌人[-] 会提供更多的资源和 [DECEA3]稀有[-] 资源。
+challengeMeetRekt,遇见露娜
+challengeMeetRektShort,遇见商人露娜。
+challengeMeetRektDesc,"在 [DECEA3]松林[-] 生态区的露娜商店与 [DECEA3]商人露娜[-] 交谈。她通常有大量的 [DECEA3]食物[-] 和 [DECEA3]农业[-] 用品出售。"
+challengeMeetJenDesc,"你可以在 [DECEA3]焦森林[-] 的临时医院 [DECEA3]珍的诊所[-] 找到 [DECEA3]商人珍[-]。她一开始可能看起来很友好，但在这种环境下最好小心一些。她主要出售 [DECEA3]医疗[-] 用品。"
+challengeKillEnemies,消灭敌人
+challengeKillEnemiesShort,消灭一些敌人。
+challengeKillEnemiesDesc,"[DECEA3]僵尸[-] 和 [DECEA3]机器人[-] 是你生存的主要威胁。\n\n[DECEA3]普通[-] 僵尸和机器人白天行走，但夜晚移动更快。\n\n[FF6666]狂暴[-] 僵尸和 [FFEA00]超载[-] 机器人白天奔跑，攻击力更强，且承受更多伤害。\n\n[00FF00]辐射[-] 僵尸和机器人可以恢复健康并造成严重伤害，直到被消灭才会停止威胁。\n\n[FFA500]烈焰[-] 和 [33CCFF]电击[-] 机器人非常坚固，白天奔跑，并有可能使目标触电或着火，具体取决于类型。"
+challengePurchaseItemsJoelDesc,"[DECEA3]商人[-] 提供多种 [DECEA3]类别[-] 的 [DECEA3]物品[-] 出售。随着你的进展，你的 [DECEA3]商人等级[-] 将提高，[DECEA3]商人[-] 将提供更多 [DECEA3]物品[-] 以及更高 [DECEA3]品质[-] 的新物品。\n\n每个 [DECEA3]商人[-] 也 [DECEA3]专精[-] 于特定 [DECEA3]类别[-]。例如，[DECEA3]商人露娜[-] 专精于 [DECEA3]食物[-] 和 [DECEA3]种子[-]，这意味着她有更多的 [DECEA3]餐食[-] 出售，而 [DECEA3]商人珍[-] 专精于 [DECEA3]医疗[-] 用品，库存更多的 [DECEA3]绷带[-]。\n\n[DECEA3]商人的[-] 价格基于你的 [DECEA3]交易[-] 属性，该属性可以通过 [DECEA3]消耗品[-] 和一些 [DECEA3]护甲[-] 进行修改。"
+challengeQuestTraderToTraderCompleteDesc,"在完成 [DECEA3]10[-] 次 [DECEA3]商人[-] 任务后，一个新的 [DECEA3]特殊任务[-] 类别将解锁。\n\n这将启用一个 [DECEA3]开辟贸易路线[-] 任务，允许你找到下一个 [DECEA3]商人[-] 来推进你的 [DECEA3]进度[-]。顺序如下：\n\n[DECEA3]商人露娜[-] 到 [DECEA3]商人珍[-]。\n\n[DECEA3]商人珍[-] 到 [DECEA3]商人鲍勃[-]。\n\n[DECEA3]商人鲍勃[-] 到 [DECEA3]商人休[-]。\n\n[DECEA3]商人休[-] 到 [DECEA3]商人乔尔[-]。"
+challengeHarvestLeatherDesc,"[DECEA3]皮革[-] 主要用于 [DECEA3]护甲[-] 和 [DECEA3]护甲改装[-] 配方。\n\n可以从家具如 [DECEA3]办公椅[-]、[DECEA3]皮革沙发[-] 和 [DECEA3]皮革餐厅座椅[-] 中采集。"
+challengeHarvestRottingFleshDesc,"[DECEA3]腐肉[-] 用于制作 [DECEA3]农田[-] 和一些 [DECEA3]食物[-] 物品。\n\n可以从 [DECEA3]尸体[-] 和 [DECEA3]尸体袋[-] 中采集。\n\n使用任何 [DECEA3]刀[-] 采集一些 [DECEA3]腐肉[-]。"
+challengeHealerInfectionDesc,"[DECEA3]僵尸[-] 的攻击有一定几率导致 [DECEA3]感染[-]。穿戴 [DECEA3]护甲[-] 可以降低 [DECEA3]感染[-] 和其他 [DECEA3]严重伤害[-] 的几率。\n\n[DECEA3]蜂蜜[-]、[DECEA3]草药抗生素[-] 和 [DECEA3]抗生素[-] 用于治疗 [DECEA3]感染[-]。选择一个并按下 [action:local:Primary] 使用。\n\n从你的背包中使用一个，选择它并按下 [DECEA3]使用[-] 快速动作 [action:local:Left]。"
+challengeEnterDesertDesc,"[DECEA3]沙漠[-] 一直是内瓦兹甘县的一个干燥、荒凉的地方。\n\n末日后，其丰富的资源吸引了人类拾荒者寻找 [DECEA3]油页岩[-] 和 [DECEA3]丝兰果[-]。当心高空巡逻的 [DECEA3]纳米无人机[-]，它们随时准备发动攻击。"
+challengeEnterSnowDesc,"[DECEA3]雪地[-] 生态区是一个寒冷的地方，居住着无情的 [DECEA3]机器人狗[-] 和 [DECEA3]蜘蛛机器人[-]，它们用红外系统猎杀猎物。\n\n配备高科技激光武器的 [DECEA3]战斗犬[-] 在夜间巡逻雪地，搜寻生命的迹象以消灭。"
+challengeEnterWastelandDesc,"曾经人口密集的 [DECEA3]废土[-] 已经变成废墟和扭曲的金属梁，许多居民变成了致命的 [DECEA3]狂暴[-] 和 [DECEA3]辐射僵尸[-]。\n\n许多进入废土的幸存者从未返回，成为重型 [DECEA3]机甲[-] 和 [DECEA3]机器人[-] 的猎物。这些废墟中的目标只有一个：见人就杀。\n\n爆炸声在不同距离内响起，因为友军和敌人都会不小心触发隐藏的 [DECEA3]地雷[-]。"
+challengeKillAnyZombiesDesc,"[DECEA3]僵尸[-] 是你日常生存的持续威胁。\n\n不仅直接危险，它们还能破坏 [DECEA3]建筑[-] 并使你 [DECEA3]感染[-]。\n\n随着你的 [DECEA3]游戏阶段[-] 提升，更强、更快、更具挑战性的 [DECEA3]僵尸[-] 会出现。\n\n没有地方是安全的，因为 [DECEA3]僵尸[-] 遍布所有生态区，其中 [DECEA3]市中心[-] 和 [DECEA3]商业区[-] 的浓度最高，而其他地区可能较少。 \n\n消灭大量 [DECEA3]僵尸[-]。"
+challengeKillSoldiers,消灭士兵僵尸
+challengeKillSoldiersShort,消灭一些士兵僵尸。
+challengeKillSoldiersDesc,"[DECEA3]士兵僵尸[-] 是经验丰富的不死生物，具有更高的疼痛耐受度和重型防弹头盔，瞄准头部可能不是最佳选择。\n\n消灭一些 [DECEA3]士兵僵尸[-]。"
+challengeKillRobots,消灭任何机器人
+challengeKillRobotsShort,消灭大量机器人。
+challengeKillRobotsDesc,"[DECEA3]机器人[-] 是你日常生存的持续威胁。\n\n不仅直接危险，它们还能破坏 [DECEA3]建筑[-] 并使你 [4EE44E]辐射[-]。\n\n随着你的 [DECEA3]游戏阶段[-] 提升，更强、更快、更具挑战性的 [DECEA3]机器人[-] 会出现。\n\n没有地方是安全的，因为 [DECEA3]机器人[-] 巡逻所有生态区，其中 [DECEA3]市中心[-] 和 [DECEA3]商业区[-] 的浓度最高，而其他地区可能较少。 \n\n消灭大量 [DECEA3]机器人[-]。"
+challengeKillOverchargedRobots,消灭超载机器人
+challengeKillOverchargedRobotsShort,消灭一些超载机器人。
+challengeKillOverchargedRobotsDesc,"[DECEA3]超载机器人[-] 白天奔跑，攻击力更强，承受更多伤害。\n\n拆解后可获得少量 [DECEA3]电气部件[-]、[DECEA3]机械部件[-]、[DECEA3]弹簧[-] 和 [DECEA3]纳米芯片[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]超载机器人[-]。"
+challengeKillRadiatedRobots,消灭辐射机器人
+challengeKillRadiatedRobotsShort,消灭一些辐射机器人。
+challengeKillRadiatedRobotsDesc,"[DECEA3]辐射机器人[-] 可以恢复健康并造成范围辐射伤害，使附近的目标 [4EE44E]辐射[-]。\n\n拆解后可获得少量 [DECEA3]电气部件[-]、[DECEA3]机械部件[-]、[DECEA3]弹簧[-] 和 [DECEA3]纳米芯片[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]辐射机器人[-]。"
+challengeKillInfernoRobots,消灭烈焰机器人
+challengeKillInfernoRobotsShort,消灭一些烈焰机器人
+challengeKillInfernoRobotsDesc,"[DECEA3]烈焰机器人[-] 非常坚固，白天奔跑，并有一定几率在每次攻击时使目标 [FFA500]着火[-]。\n\n拆解后可获得少量 [DECEA3]电气部件[-]、[DECEA3]机械部件[-]、[DECEA3]弹簧[-] 和 [DECEA3]纳米芯片[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]烈焰机器人[-]。"
+challengeKillShockerRobots,消灭电击机器人
+challengeKillShockerRobotsShort,消灭一些电击机器人
+challengeKillShockerRobotsDesc,"[DECEA3]电击机器人[-] 非常坚固，白天奔跑，并有一定几率在每次攻击时使目标 [33CCFF]触电[-]。\n\n拆解后可获得少量 [DECEA3]电气部件[-]、[DECEA3]机械部件[-]、[DECEA3]弹簧[-] 和 [DECEA3]纳米芯片[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]电击机器人[-]。"
+challengeKillRobotDogs,消灭机器狗
+challengeKillRobotDogsShort,消灭一些机器狗
+challengeKillRobotDogsDesc,"[DECEA3]机器狗[-] 非常坚固且速度快，使得它们难以消灭。注意有些版本会反击。\n\n拆解后可获得少量 [DECEA3]电气部件[-]、[DECEA3]机械部件[-]、[DECEA3]弹簧[-] 和 [DECEA3]纳米芯片[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]机器狗[-]。"
+challengeKillSpiderBots,消灭蜘蛛机器人
+challengeKillSpiderBotsShort,消灭一些蜘蛛机器人
+challengeKillSpiderBotsDesc,"[DECEA3]蜘蛛机器人[-] 很弱但速度极快，并从远处跳向目标。\n\n拆解后可获得少量 [DECEA3]电气部件[-]、[DECEA3]机械部件[-]、[DECEA3]弹簧[-] 和 [DECEA3]纳米芯片[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]蜘蛛机器人[-]。"
+challengeKillDrones,消灭无人机
+challengeKillDronesShort,消灭一些无人机
+challengeKillDronesDesc,"[DECEA3]无人机[-] 在空中扫描，并在视野中隐身，使得它们很难被发现。注意有些版本会反击。\n\n它们在危急状态时自毁以保护收集的数据不落入他人之手。\n\n消灭一些 [DECEA3]无人机[-]。"
+challengeKillDroids,消灭机器人
+challengeKillDroidsShort,消灭一些机器人
+challengeKillDroidsDesc,"[DECEA3]机器人[-] 是重型战斗机器人，巡逻废土街道。注意有些版本在你靠近时会自毁。\n\n拆解后可获得适量 [DECEA3]电气部件[-]、[DECEA3]机械部件[-]、[DECEA3]弹簧[-]、[DECEA3]纳米芯片[-]、[DECEA3]锻造钢[-] 和 [DECEA3]锻造钴[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]机器人[-]。"
+challengeKillMechs,消灭机甲
+challengeKillMechsShort,消灭一些机甲
+challengeKillMechsDesc,"[DECEA3]机甲[-] 是废土中最坚固且最残暴的机器，设计用于大规模清除。注意大多数版本装备了致命的等离子炮，并会立即开火。\n\n拆解后可获得大量 [DECEA3]电气部件[-]、[DECEA3]机械部件[-]、[DECEA3]弹簧[-]、[DECEA3]纳米芯片[-]、[DECEA3]锻造钢[-] 和 [DECEA3]锻造钴[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]机甲[-]。"
+challengeOpenStarterCapsule,打开新手胶囊
+challengeOpenStarterCapsuleShort,打开新手胶囊。
+challengeOpenStarterCapsuleDesc,"[DECEA3]新手胶囊[-] 会给你提供生存所需的基本物品。你需要里面的 [DECEA3]扳手[-] 来采集资源，以便建造工作站来帮助你生存。\n\n还提供了基本的 [DECEA3]食物[-]、[DECEA3]水[-] 和 [DECEA3]医疗用品[-]，帮助你度过最初的几天。\n\n还提供了一个基本的 [DECEA3]手电筒[-]，帮助你在黑暗区域导航。"
+challengeReadForgeAheadMagazine,阅读《高级锻造指南》杂志
+challengeReadForgeAheadMagazineShort,阅读一本《高级锻造指南》杂志。
+challengeReadForgeAheadMagazineDesc,"[DECEA3]制造技能杂志[-] 涵盖了广泛的主题。阅读它们可以提高你的 [DECEA3]制造技能[-]，从而提升所制造物品的 [DECEA3]质量[-] 和/或 [DECEA3]技术等级[-]。\n\n阅读第一本 [DECEA3]《高级锻造指南》[-] 杂志将解锁你所需的必要工作站，以生产 [DECEA3]食物[-] 和 [DECEA3]清洁水[-]。\n\n[DECEA3]制造技能杂志[-] 可以在各种战利品容器中找到，如 [DECEA3]邮箱[-]，也可以在 [DECEA3]商人[-] 处购买，或者作为 [DECEA3]任务奖励[-] 获得。"
+challengeGatherResourcesFabricator,收集制造机资源
+challengeGatherResourcesFabricatorShort,收集制造机所需的资源。
+challengeGatherResourcesFabricatorDesc,"你需要的资源包括 [DECEA3]铁[-]、[DECEA3]废聚合物[-]、[DECEA3]胶带[-]、[DECEA3]纳米芯片[-] 和 [DECEA3]电气部件[-]。\n\n这些资源中的许多可以从 [DECEA3]停机机器人[-] 或 [DECEA3]高科技车辆[-] 中获取。\n\n[DECEA3]废聚合物[-] 可以从纸箱和窗帘中采集。[DECEA3]胶带[-] 可以通过制造或在战利品中找到。"
+challengePlaceFabricator,放置制造机
+challengePlaceFabricatorShort,制造并放置制造机在地上。
+challengePlaceFabricatorDesc,"[DECEA3]制造机[-] 用于制造 [DECEA3]生肉[-]、[DECEA3]鸡蛋[-]、[DECEA3]动物脂肪[-] 和其他高级配方。\n\n在 [DECEA3]制造机[-] 上制造配方时，所需材料必须在你的 [DECEA3]背包[-] 中。\n\n按住 [action:local:Activate][action:permanent:Activate] 来捡起你 [DECEA3]领地[-] 区域内的工作站。"
+challengeCraftRawMeat,合成生肉
+challengeCraftRawMeatShort,合成一些生肉。
+challengeCraftRawMeatDesc,"使用 [DECEA3]制造机[-] 合成一些 [DECEA3]生肉[-]。\n\n所需原料为 [DECEA3]植物纤维[-] 和 [DECEA3]废聚合物[-]。\n\n[DECEA3]生肉[-] 可用于各种烹饪配方。"
+challengeCraftEggs,合成鸡蛋
+challengeCraftEggsShort,合成一些鸡蛋。
+challengeCraftEggsDesc,"使用 [DECEA3]制造机[-] 合成一些 [DECEA3]鸡蛋[-]。\n\n所需原料为 [DECEA3]植物纤维[-]、[DECEA3]废聚合物[-] 和 [DECEA3]煮沸的水[-]。\n\n[DECEA3]鸡蛋[-] 可用于各种烹饪配方。"
+challengeCraftLeather,合成皮革
+challengeCraftLeatherShort,合成一些皮革。
+challengeCraftLeatherDesc,"使用 [DECEA3]制造机[-] 合成一些 [DECEA3]皮革[-]。\n\n所需原料为 [DECEA3]废聚合物[-] 和 [DECEA3]胶水[-]。\n\n[DECEA3]皮革[-] 可用于制作 [DECEA3]护甲[-] 和其他各种配方。"
+challengeCraftBones,合成骨头
+challengeCraftBonesShort,合成一些骨头。
+challengeCraftBonesDesc,"使用 [DECEA3]制造机[-] 合成一些 [DECEA3]骨头[-]。\n\n所需原料为 [DECEA3]废聚合物[-]、[DECEA3]铁[-] 和 [DECEA3]碎玻璃[-]。\n\n[DECEA3]骨头[-] 可用于制作 [DECEA3]胶水[-] 和其他一些配方。"
+challengeGroupCompleteShort,兑换所有在基础组中完成挑战所获得的奖励。
+challengeGroupCompleteDesc,"成功完成 [DECEA3]基础[-] 类别中的所有 [DECEA3]挑战[-] 后，现在是时候领取你应得的 [DECEA3]奖励[-]。\n\n选择已完成并标记为 [00FF00]绿色[-] 的每个 [DECEA3]挑战[-]，然后点击下方的 [DECEA3]兑换[-] 按钮或使用快捷键 [action:gui:GUI Inspect]。\n\n兑换每组中的所有 [DECEA3]挑战[-] 将为你颁发 [DECEA3]组完成奖励[-]。\n\n在兑换此挑战后，[DECEA3]进阶挑战[-] 将解锁。"
+challengeGroupCompleteDesc_alt,"成功完成基础类别中的所有挑战后，现在是时候领取你应得的奖励。\n\n选择已完成并标记为 [00FF00]绿色[-] 的每个挑战，并点击兑换按钮或使用快捷键 [action:gui:GUI Inspect]。\n\n兑换每组中的所有挑战将为你颁发组完成奖励。\n\n在兑换此奖励后，进阶挑战将解锁。"
+challengeGroupCompleteHint2,[FFB400]兑换基础组中的所有挑战。[-]
+challengeRedeemChallenge,入门挑战
+challengeRedeemChallengeShort,兑换这个入门挑战。
+challengeRedeemChallengeDesc,"[DECEA3]挑战[-] 目的是介绍核心游戏系统。\n\n查看每个 [DECEA3]挑战[-] 描述以了解你的目标，并知道在哪里可以找到帮助你生存的关键信息。\n\n通过选择一个 [DECEA3]挑战[-] 并按 [action:gui:GUI Action Left] 来追踪它。\n\n一旦 [DECEA3]挑战[-] 完成，返回此窗口通过选择它并按 [action:gui:GUI Action Up] 来兑换你的奖励。兑换每一行中的所有 [DECEA3]挑战[-] 将为你颁发 [DECEA3]特别奖励[-]。\n\n在兑换此挑战后，[DECEA3]商人任务[-] 将开始。"
