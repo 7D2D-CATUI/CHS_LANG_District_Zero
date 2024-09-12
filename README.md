@@ -1,10 +1,6 @@
 # CHS_LANG_District_Zero
 District Zero Chinese Language
 
-## Change Log
-### 2024/09/01 1.0.0 Update
-- 《District Zero（零区）》MOD汉化1.0，基于：District Zero - Experimental 2.3.0，七日杀1.0 b4环境测试
-
 ## 《District Zero》 
 ### 下载
 - 《District Zero》: https://www.nexusmods.com/7daystodie/mods/3174

@@ -174,8 +174,8 @@ MPL_WombStoolOrange,橙色温姆凳
 District Zero,--------------------------------------------------------------------
 autoMiner,自动采矿机
 autoMinerDesc,"自动采矿机可以在一段时间内提取资源。需要气体供能。"
-blastFurnace,高炉
-blastFurnaceDesc,"用于熔炼金属以制作工具和武器或石头以制作水泥。通过增益解锁更多配方。安装工具以提高性能或解锁配方。\n可安装工具：忙碌管道、预热器、坩埚"
+blastFurnace,高级锻造炉
+blastFurnaceDesc,"用于熔炼金属以制作工具和武器或石头以制作水泥。通过增益解锁更多配方。安装工具以提高性能或解锁配方。\n可安装工具：喷吹管、预热器、坩埚"
 cobaltShapes:VariantHelper,钴块
 materialMcobalt_shapes,钴
 scrapCobaltPile,钴废料堆
@@ -324,12 +324,12 @@ decoPumpkinJackOLanternDesc,必备的吓唬敌人的道具。
 fakeCabinetDoorTrapGroupDesc,敌人可以看到这个方块。其用途是隐藏在里面的敌人可以看到玩家并从衣柜中冲出来。
 fencesGroupDesc,围栏和护栏可以防止邻居进入。同样有助于防止从高处跌落。
 fabricator,制造机
-fabricatorDesc,将有机材料合成可用物品。\n\n使用锻造铁维修。
-bladeTrapDesc,用于将敌人分解成许多碎片。\n\n使用锻造钢维修。
+fabricatorDesc,将有机材料合成可用物品。\n\n使用锻铁维修。
+bladeTrapDesc,用于将敌人分解成许多碎片。\n\n使用锻钢维修。
 mineAirFilterDesc,放置炸弹后小心退后。将机器人变成废铁！
 mineEMP,电磁脉冲炸弹
-mineEMPDesc,产生电磁脉冲，暂时禁用附近的敌人。同样禁用机甲的武器一段时间。
-forgeDesc,用于熔炼金属以制作工具和武器或石头以制作水泥。安装工具以提高性能或解锁配方。\n\n使用废铁维修。
+mineEMPDesc,产生电磁脉冲，暂时禁用附近的敌人。同时禁用机甲的武器一段时间。
+forgeDesc,用于熔炼金属以制作工具和武器或石头以制作水泥。安装工具以提高性能或解锁配方。\n\n使用铁维修。
 plantedCropsGroupDesc,将这些种子种植在农田或肥沃的土地上，以生长可供收获的植物。
 burningBarrelPlayerDesc,靠近时开放火焰会提供一些热量。对热量图没有影响。
 xuiTargetZombies,目标敌人
@@ -346,9 +346,9 @@ xuiRobotDogs,机器狗
 xuiDrones,无人机
 xuiDroids,战斗机器人
 xuiMechs,机甲
-xuiForgeAheadMagazine,前进锻造杂志
-statCraftingSmeltTimeBlastFurnace,高炉熔炼速度
-statCraftingTimeBlastFurnace,高炉制作速度
+xuiForgeAheadMagazine,锻造指南
+statCraftingSmeltTimeBlastFurnace,锻造炉熔炼速度
+statCraftingTimeBlastFurnace,锻造炉制作速度
 statNausea,恶心几率
 statHealthLoss,伤害抵抗
 statBurnAOERadius,燃烧AOE半径（米）
@@ -398,68 +398,68 @@ drugVitaminsDesc,"这些维生素可以治愈恶心和疲劳，并防止你患�
 foodEggRotten,腐烂的蛋
 foodEggRottenDesc,腐烂的蛋闻起来很糟糕。你最好不要吃这东西。
 drinkJarEmpty,空水罐
-drinkJarEmptyDesc,一个空的玻璃罐可以在水源处使用次级动作装满水或用于其他配方。
+drinkJarEmptyDesc,一个空的玻璃罐可以在水源处使用辅助动作装满水或用于其他配方。
 torchPlayerGroupDesc,像火炬这样的开放火焰和闪烁灯光会吸引不必要的注意力。（蜡烛则不会那么明显）
 lanternLight_playerDesc,这款油灯可以提供光线而不会有闪烁，从而避免吸引不必要的注意力。
 candleDesc,蜡烛可以用作光源或放置在墙上。这可能会吸引不必要的注意力。
-toolBustlePipe,繁忙管道
-toolBustlePipeDesc,一种可以安装在高炉中的工具。它可以增加气流，从而提高高炉的熔炼速度。
+toolBustlePipe,喷吹管
+toolBustlePipeDesc,一种可以安装在高级锻造炉中的工具。它可以增加气流，从而提高锻造炉的熔炼速度。
 toolPreHeater,预热器
-toolPreHeaterDesc,一种可以安装在高炉中的工具。它可以提高该高炉的制作速度。
+toolPreHeaterDesc,一种可以安装在高级锻造炉中的工具。它可以提高该锻造炉的制作速度。
 resourceCobalt,原始钴
 resourceCobaltDesc,"用于制作、锻造、维修和升级墙壁的核心资源。比钢铁更坚固。"
-resourceForgedCobalt,锻造钴
-resourceForgedCobaltDesc,可以在安装了坩埚升级的高炉中制作。钴用于制作最强的物品。
+resourceForgedCobalt,锻钴
+resourceForgedCobaltDesc,可以在安装了坩埚升级的锻造炉中制作。钴用于制作最强的物品。
 resourceCharcoal,木炭
 resourceCharcoalDesc,可以通过在篝火中燃烧木材制成。是制作信号弹的关键成分。
 resourceNanoChip,纳米芯片
 resourceNanoChipDesc,一种小型计算机芯片。用于制造高科技设备。
 resourceFertilizerCell,肥料单元
-resourceFertilizerCellDesc,肥料单元与农具结合使用，在肥沃的土地上种植作物。\n使用次级动作 [action:local:Secondary]。
+resourceFertilizerCellDesc,肥料单元与农具结合使用，在肥沃的土地上种植作物。\n使用辅助动作 [action:local:Secondary]。
 resourceBoneDesc,一种来自已灭绝物种的普通骨头。大概。
 resourceRockSmallDesc,"用于多种配方，包括石斧和篝火。可以扔向敌人以分散注意力，也是核心锻造资源。"
 resourceSnowBallDesc,你知道该怎么做！将其变成顶级的尤加果汁冰沙。\n可以扔向敌人以分散注意力。
-resourceFeatherDesc,羽毛主要在鸟巢中找到或在制造机中制作。可用于制作箭矢和十字弓箭。
+resourceFeatherDesc,羽毛主要在鸟巢中找到或在制造机中制作。可用于制作箭矢和弩箭。
 resourceCobaltBundle,一捆原始钴（6000）
-resourceCobaltBundleDesc,这是一个紧凑的原始钴堆。使用此物品打开并解包。
+resourceCobaltBundleDesc,这是一个紧凑的原始钴堆。使用此道具打开。
 resourceClayLumpBundle,一堆黏土（6000）
-resourceClayLumpBundleDesc,这是一个紧凑的黏土堆。使用此物品打开并解包。
+resourceClayLumpBundleDesc,这是一个紧凑的黏土堆。使用此道具打开。
 resourceCrushedSandBundle,一堆碎砂（6000）
-resourceCrushedSandBundleDesc,这是一个紧凑的碎砂堆。使用此物品打开并解包。
-gunBowT0PrimitiveBowDesc,适合潜行和远程杀敌。使用箭矢作为弹药。\n按住重新装填键可使用替代弹药。\n\n使用木头修理。\n拆解为木头。
-gunBowT1WoodenBowDesc,适合潜行和远程杀敌。使用箭矢作为弹药。\n按住重新装填键可使用替代弹药。\n\n使用修理工具修理。\n拆解为弓/十字弓部件。
+resourceCrushedSandBundleDesc,这是一个紧凑的碎砂堆。使用此道具打开。
+gunBowT0PrimitiveBowDesc,适合潜行和远程杀敌。使用箭矢作为弹药。\n按住重新装填键可使用替代弹药。\n\n使用木头修理。\n可分解为木头。
+gunBowT1WoodenBowDesc,适合潜行和远程杀敌。使用箭矢作为弹药。\n按住重新装填键可使用替代弹药。\n\n可用维修工具修理。\n可分解为弓/弩零件。
 gunHandgunT1Flaregun,紧急信号枪
-gunHandgunT1FlaregunDesc,紧急信号枪在户外发射时有30%的概率召唤空投。空投在尸潮之夜不会发送。请注意，这也可能吸引不必要的注意力。\n\n使用修理工具修理。\n拆解为手枪部件。
+gunHandgunT1FlaregunDesc,紧急信号枪在户外发射时有30%的概率召唤空投。空投在尸潮之夜不会发送。请注意，这也可能吸引不必要的注意力。\n\n可用维修工具修理。\n可分解为手枪零件。
 gunHandgunFarmT1LaserFarmingTool,农业工具
-gunHandgunFarmT1LaserFarmingToolDesc,使用主要动作 [action:local:Primary] 清除草地。\n使用次要动作 [action:local:Secondary] 施肥，需要肥料单元。\n\n使用修理工具修理。\n拆解为电动工具部件。
+gunHandgunFarmT1LaserFarmingToolDesc,使用主要动作 [action:local:Primary] 清除草地。\n使用次要动作 [action:local:Secondary] 施肥，需要肥料单元。\n\n可用维修工具修理。\n可分解为电动工具零件。
 gunMGT2LaserAssaultRifle,激光突击步枪
-gunMGT2LaserAssaultRifleDesc,这把激光突击步枪使用重型能量电池。\n\n使用修理工具修理。\n拆解为机枪部件。
+gunMGT2LaserAssaultRifleDesc,这把激光突击步枪使用重型能量电池。\n\n可用维修工具修理。\n可分解为机枪零件。
 gunRifleT2LaserSniperRifle,激光狙击步枪
-gunRifleT2LaserSniperRifleDesc,"这把高精度、长射程的狙击步枪非常适合远距离狙杀敌人。\n\n使用修理工具修理。\n拆解为步枪部件。"
+gunRifleT2LaserSniperRifleDesc,"这把高精度、长射程的狙击步枪非常适合远距离狙杀敌人。\n\n可用维修工具修理。\n可分解为步枪零件。"
 gunHandgunT2LaserPistol,激光手枪
-gunHandgunT2LaserPistolDesc,一把使用纳米能量电池的重型手枪。\n\n使用修理工具修理。\n拆解为手枪部件。
+gunHandgunT2LaserPistolDesc,一把使用纳米能量电池的重型手枪。\n\n可用维修工具修理。\n可分解为手枪零件。
 gunHandgunT2LaserSMG,激光SMG
-gunHandgunT2LaserSMGDesc,这把冲锋枪使用纳米能量电池。\n\n使用修理工具修理。\n拆解为手枪部件。
+gunHandgunT2LaserSMGDesc,这把冲锋枪使用纳米能量电池。\n\n可用维修工具修理。\n可分解为手枪零件。
 gunShotgunT2LaserShotgun,激光霰弹枪
-gunShotgunT2LaserShotgunDesc,这把半自动霰弹枪是一种罕见且威力巨大的短程武器，能够烧毁路径上的任何东西。\n\n使用修理工具修理。\n拆解为霰弹枪部件。
+gunShotgunT2LaserShotgunDesc,这把半自动霰弹枪是一种罕见且威力巨大的短程武器，能够烧毁路径上的任何东西。\n\n可用维修工具修理。\n可分解为霰弹枪零件。
 gunHandgunT2LaserMagnum,激光左轮手枪
-gunHandgunT2LaserMagnumDesc,这把重型手枪使用纳米能量电池。\n\n使用修理工具修理。\n拆解为手枪部件。
+gunHandgunT2LaserMagnumDesc,这把重型手枪使用纳米能量电池。\n\n可用维修工具修理。\n可分解为手枪零件。
 gunHandgunT3PlasmaPistol,等离子手枪
-gunHandgunT3PlasmaPistolDesc,这把手枪使用纳米能量电池。\n\n使用修理工具修理。\n拆解为手枪部件。
+gunHandgunT3PlasmaPistolDesc,这把手枪使用纳米能量电池。\n\n可用维修工具修理。\n可分解为手枪零件。
 gunHandgunT3PlasmaMagnum,等离子左轮手枪
-gunHandgunT3PlasmaMagnumDesc,等离子左轮手枪是手枪之王。它是威力最大的，但噪音也最大。它使用纳米能量电池。\n\n使用修理工具修理。\n拆解为手枪部件。
+gunHandgunT3PlasmaMagnumDesc,等离子左轮手枪是手枪之王。它是威力最大的，但噪音也最大。它使用纳米能量电池。\n\n可用维修工具修理。\n可分解为手枪零件。
 gunShotgunT3PlasmaShotgun,等离子霰弹枪
-gunShotgunT3PlasmaShotgunDesc,这把长管泵动霰弹枪使用霰弹能量电池。\n\n使用修理工具修理。\n拆解为霰弹枪部件。
+gunShotgunT3PlasmaShotgunDesc,这把长管泵动霰弹枪使用霰弹能量电池。\n\n可用维修工具修理。\n可分解为霰弹枪零件。
 gunHandgunT3PlasmaSMG,等离子SMG
-gunHandgunT3PlasmaSMGDesc,这把冲锋枪使用纳米能量电池。\n\n使用修理工具修理。\n拆解为手枪部件。
+gunHandgunT3PlasmaSMGDesc,这把冲锋枪使用纳米能量电池。\n\n可用维修工具修理。\n可分解为手枪零件。
 gunMGT3PlasmaAssaultRifle,等离子突击步枪
-gunMGT3PlasmaAssaultRifleDesc,这把等离子突击步枪使用重型能量电池。\n\n使用修理工具修理。\n拆解为机枪部件。
+gunMGT3PlasmaAssaultRifleDesc,这把等离子突击步枪使用重型能量电池。\n\n可用维修工具修理。\n可分解为机枪零件。
 gunRifleT3PlasmaSniperRifle,等离子狙击步枪
-gunRifleT3PlasmaSniperRifleDesc,"这把高精度、长射程的狙击步枪非常适合远距离狙杀敌人。\n\n使用修理工具修理。\n拆解为步枪部件。"
+gunRifleT3PlasmaSniperRifleDesc,"这把高精度、长射程的狙击步枪非常适合远距离狙杀敌人。\n\n可用维修工具修理。\n可分解为步枪零件。"
 gunExplosivesT3PlasmaGrenadeLauncher,等离子榴弹发射器
-gunExplosivesT3PlasmaGrenadeLauncherDesc,这把等离子榴弹发射器发射榴弹能量电池。\n\n使用修理工具修理。\n拆解为发射器部件。
+gunExplosivesT3PlasmaGrenadeLauncherDesc,这把等离子榴弹发射器发射榴弹能量电池。\n\n可用维修工具修理。\n可分解为发射器零件。
 gunExplosivesT3PlasmaRocketLauncher,等离子火箭发射器
-gunExplosivesT3PlasmaRocketLauncherDesc,这把等离子火箭发射器发射火箭能量电池。\n\n使用修理工具修理。\n拆解为发射器部件。
+gunExplosivesT3PlasmaRocketLauncherDesc,这把等离子火箭发射器发射火箭能量电池。\n\n可用维修工具修理。\n可分解为发射器零件。
 gunHandgunPistolDev,开发者武器: 附近敌人瞬间死亡
 gunHandgunPistolDevDesc,一把开发用手枪，发射时可杀死附近的所有敌人。
 ammoFlareRound,信号弹 (弹药)
@@ -490,42 +490,42 @@ ammoBundleHeavyEnergyCellAP,一盒穿甲重型能量电池（100发）
 ammoBundleShotgunEnergyCell,一盒霰弹能量电池（100发）
 ammoBundleShotgunEnergyCellAP,一盒穿甲霰弹能量电池（100发）
 meleeWpnClubT2LaserClub,激光棍
-meleeWpnClubT2LaserClubDesc,激光棍非常耐用且打击力强。\n\n使用修理工具修理。\n拆解为棍棒部件。
+meleeWpnClubT2LaserClubDesc,激光棍非常耐用且打击力强。\n\n可用维修工具修理。\n可分解为棍棒零件。
 meleeWpnBladeT2LaserKnife,激光匕首
-meleeWpnBladeT2LaserKnifeDesc,非常适合收割植物和小树。\n使用修理工具修理。\n拆解为刀刃部件。
+meleeWpnBladeT2LaserKnifeDesc,非常适合收割植物和小树。\n可用维修工具修理。\n可分解为刀刃零件。
 meleeWpnSledgeT2LaserSledgehammer,激光大锤
-meleeWpnSledgeT2LaserSledgehammerDesc,锤子是敲碎头颅的最佳武器之一。\n\n使用修理工具修理。\n拆解为锤子部件。
+meleeWpnSledgeT2LaserSledgehammerDesc,锤子是敲碎头颅的最佳武器之一。\n\n可用维修工具修理。\n可分解为锤子零件。
 meleeWpnBladeT2LaserSword,激光剑
-meleeWpnBladeT2LaserSwordDesc,非常适合收割植物和砍杀敌人。\n使用修理工具修理。\n拆解为刀刃部件。
+meleeWpnBladeT2LaserSwordDesc,非常适合收割植物和砍杀敌人。\n可用维修工具修理。\n可分解为刀刃零件。
 meleeWpnBatonT2LaserStunBaton,激光电击棒
-meleeWpnBatonT2LaserStunBatonDesc,发出“滋滋”声。\n\n使用修理工具修理。\n拆解为电击棒部件。
+meleeWpnBatonT2LaserStunBatonDesc,发出“滋滋”声。\n\n可用维修工具修理。\n可分解为电击棒零件。
 meleeWpnSpearT2LaserSpear,激光长矛
-meleeWpnSpearT2LaserSpearDesc,长矛比其他近战武器具有更大的攻击范围。\n使用修理工具修理。\n拆解为长矛部件。
+meleeWpnSpearT2LaserSpearDesc,长矛比其他近战武器具有更大的攻击范围。\n可用维修工具修理。\n可分解为长矛零件。
 meleeWpnClubT3PlasmaClub,等离子棒
-meleeWpnClubT3PlasmaClubDesc,等离子棍非常耐用且打击力强。\n\n使用修理工具修理。\n拆解为棍棒部件。
+meleeWpnClubT3PlasmaClubDesc,等离子棍非常耐用且打击力强。\n\n可用维修工具修理。\n可分解为棍棒零件。
 meleeWpnBladeT3PlasmaKnife,等离子匕首
-meleeWpnBladeT3PlasmaKnifeDesc,非常适合收割植物和小树。\n使用修理工具修理。\n拆解为铁。
+meleeWpnBladeT3PlasmaKnifeDesc,非常适合收割植物和小树。\n可用维修工具修理。\n可分解为铁。
 meleeWpnSledgeT3PlasmaSledgehammer,等离子大锤
-meleeWpnSledgeT3PlasmaSledgehammerDesc,锤子是敲碎头颅的最佳武器之一。\n\n使用修理工具修理。\n拆解为铁。
+meleeWpnSledgeT3PlasmaSledgehammerDesc,锤子是敲碎头颅的最佳武器之一。\n\n可用维修工具修理。\n可分解为铁。
 meleeWpnBladeT3PlasmaSword,等离子剑
-meleeWpnBladeT3PlasmaSwordDesc,非常适合收割植物和砍杀敌人。\n使用修理工具修理。\n拆解为刀刃部件。
+meleeWpnBladeT3PlasmaSwordDesc,非常适合收割植物和砍杀敌人。\n可用维修工具修理。\n可分解为刀刃零件。
 meleeWpnBatonT3PlasmaBaton,等离子电击棒
-meleeWpnBatonT3PlasmaBatonDesc,发出“滋滋”声。\n\n使用修理工具修理。\n拆解为电击棒部件。
+meleeWpnBatonT3PlasmaBatonDesc,发出“滋滋”声。\n\n可用维修工具修理。\n可分解为电击棒零件。
 meleeWpnSpearT3PlasmaSpear,等离子长矛
-meleeWpnSpearT3PlasmaSpearDesc,长矛比其他近战武器具有更大的攻击范围。\n\n使用修理工具修理。\n拆解为铁。
+meleeWpnSpearT3PlasmaSpearDesc,长矛比其他近战武器具有更大的攻击范围。\n\n可用维修工具修理。\n可分解为铁。
 meleeToolAxeT3PlasmaFireaxe,等离子消防斧
-meleeToolAxeT3PlasmaFireaxeDesc,等离子消防斧非常适合砍伐木材。\n\n使用修理工具修理。\n拆解为工具部件。
+meleeToolAxeT3PlasmaFireaxeDesc,等离子消防斧非常适合砍伐木材。\n\n可用维修工具修理。\n可分解为工具零件。
 meleeToolPickT3PlasmaPickaxe,等离子镐
-meleeToolPickT3PlasmaPickaxeDesc,等离子镐非常适合挖掘石头和采集矿物。\n\n使用修理工具修理。\n拆解为工具部件。
+meleeToolPickT3PlasmaPickaxeDesc,等离子镐非常适合挖掘石头和采集矿物。\n\n可用维修工具修理。\n可分解为工具零件。
 meleeToolShovelT3PlasmaShovel,等离子铲
-meleeToolShovelT3PlasmaShovelDesc,"等离子铲非常耐用，非常适合挖掘泥土、沙子、雪和矿石。\n\n使用修理工具修理。\n拆解为工具部件。"
+meleeToolShovelT3PlasmaShovelDesc,"等离子铲非常耐用，非常适合挖掘泥土、沙子、雪和矿石。\n\n可用维修工具修理。\n可分解为工具零件。"
 meleeToolPickT3PlasmaMiningTool,等离子采矿枪
-meleeToolPickT3PlasmaMiningToolDesc,等离子采矿枪是采矿和伐木的终极多功能工具。\n\n使用修理工具修理。\n拆解为电动工具部件。
-meleeWpnBladeT0BoneKnifeDesc,这种原始的临时武器适合收割植物。\n普通攻击造成1次机械伤害，强力攻击至少造成2次。\n使用骨头修理。\n拆解为骨头。
+meleeToolPickT3PlasmaMiningToolDesc,等离子采矿枪是采矿和伐木的终极多功能工具。\n\n可用维修工具修理。\n可分解为电动工具零件。
+meleeWpnBladeT0BoneKnifeDesc,这种原始的临时武器适合收割植物。\n普通攻击造成1次持续伤害，强力攻击至少造成2次。\n使用骨头修理。\n可分解为骨头。
 meleeWpnBladeT1HuntingKnife,铁匕首
-meleeWpnBladeT1HuntingKnifeDesc,非常适合收割植物和砍杀敌人。\n普通攻击造成1次机械伤害，强力攻击至少造成2次。\n使用修理工具修理。\n拆解为铁。
-meleeWpnBladeT1CandyKnifeDesc,是时候进入节日氛围，开始刺击了！\n普通攻击造成1次机械伤害，强力攻击至少造成2次。\n\n使用修理工具修理。
-meleeWpnBladeT3MacheteDesc,非常适合砍杀敌人和收割植物。\n普通攻击造成1次机械伤害，强力攻击至少造成2次。\n使用修理工具修理。\n拆解为刀刃部件。
+meleeWpnBladeT1HuntingKnifeDesc,非常适合收割植物和砍杀敌人。\n普通攻击造成1次持续伤害，强力攻击至少造成2次。\n可用维修工具修理。\n可分解为铁。
+meleeWpnBladeT1CandyKnifeDesc,是时候进入节日氛围，开始刺击了！\n普通攻击造成1次持续伤害，强力攻击至少造成2次。\n\n可用维修工具修理。
+meleeWpnBladeT3MacheteDesc,非常适合砍杀敌人和收割植物。\n普通攻击造成1次持续伤害，强力攻击至少造成2次。\n可用维修工具修理。\n可分解为刀刃零件。
 meleeToolTorchDesc,这个火把可以用作光源或武器，有一定几率点燃敌人。使用次要动作放置。可能会吸引不必要的注意。
 gunExplosivesT3RocketLauncherParts,发射器零件
 meleeWpnBladeT3MacheteParts,刀刃零件
@@ -676,24 +676,24 @@ perkWasteTreasuresHoneyLongDesc,蜂蜜：它给你能量并提升你的耐力。
 perkWasteTreasuresCompleteDesc,找到更多的护甲制作套件。
 perkWasteTreasuresCompleteLongDesc,护甲制作套件：所有最好的护甲部件都是用护甲制作套件制作的。增加你在战利品中找到护甲制作套件的机会。
 perkSpearHunter0Desc,"拥抱你的赛博本质，解锁神秘的激光狩猎领域，将古老的矛猎传统与未来科技相结合。"
-perkSpearHunter3BleedDesc,长矛有 25% 的几率造成机械伤害。
-perkSpearHunter3BleedLongDesc,机械伤害：长矛有 25% 的几率造成机械伤害。
+perkSpearHunter3BleedDesc,长矛有 25% 的几率造成持续伤害。
+perkSpearHunter3BleedLongDesc,持续伤害：长矛有 25% 的几率造成持续伤害。
 perkDeepCutsName,致命之刃
-perkDeepCutsDesc,专精于使用刀刃武器（如刀或砍刀，但不包括斧头）对敌人造成机械伤害。
-perkDeepCutsRank1LongDesc,"你的刀刃可能有些钝，但你知道如何使用它。刀刃武器伤害增加 10%。对敌人造成最多 3 次机械伤害，强力攻击造成 2 次。每次攻击刷新机械伤害持续时间。受伤的敌人移动速度降低 10%。耐力消耗减少 8%，强力攻击减少 15%。在战利品中找到更多刀刃武器和部件。"
-perkDeepCutsRank2LongDesc,你的朋友们说你真的是个刀手。刀刃武器伤害增加 20%。对敌人造成最多 4 次机械伤害，强力攻击造成 3 次。耐力消耗减少 15%，强力攻击减少 30%。在战利品中找到更多刀刃武器和部件。
-perkDeepCutsRank3LongDesc,"你是一个量子动力奇迹，每一次精确的动作超越平凡，超越了普通程序的限制。刀刃武器伤害增加 30%。对敌人造成最多 5 次机械伤害，强力攻击造成 4 次。擦伤有 40% 的几率造成 1 次机械伤害。受伤的敌人移动速度降低 15%。耐力消耗减少 20%，强力攻击减少 40%。击杀恢复 10 点耐力。在战利品中找到更多刀刃武器和部件。"
-perkDeepCutsRank4LongDesc,你在使用刀刃武器方面非常致命。刀刃武器伤害增加 40%。对敌人造成最多 6 次机械伤害，强力攻击造成 4 次。擦伤有 70% 的几率造成 1 次机械伤害。耐力消耗减少 25%，强力攻击减少 50%。击杀恢复 20 点耐力。在战利品中找到更多刀刃武器和部件。
-perkDeepCutsRank5LongDesc,"你是一个赛博战士，精准地切割敌人，将他们变成字节大小的寿司。刀刃武器伤害增加 50%。对敌人造成最多 7 次机械伤害，强力攻击造成 5 次。所有擦伤造成 1 次机械伤害。受伤的敌人移动速度降低 20%。击杀恢复 30 点耐力。在战利品中找到更多刀刃武器和部件。"
+perkDeepCutsDesc,专精于使用刀刃武器（如刀或砍刀，但不包括斧头）对敌人造成持续伤害。
+perkDeepCutsRank1LongDesc,"你的刀刃可能有些钝，但你知道如何使用它。刀刃武器伤害增加 10%。对敌人造成最多 3 次持续伤害，强力攻击造成 2 次。每次攻击刷新持续伤害持续时间。受伤的敌人移动速度降低 10%。耐力消耗减少 8%，强力攻击减少 15%。在战利品中找到更多刀刃武器和零件。"
+perkDeepCutsRank2LongDesc,你的朋友们说你真的是个刀手。刀刃武器伤害增加 20%。对敌人造成最多 4 次持续伤害，强力攻击造成 3 次。耐力消耗减少 15%，强力攻击减少 30%。在战利品中找到更多刀刃武器和零件。
+perkDeepCutsRank3LongDesc,"你是一个量子动力奇迹，每一次精确的动作超越平凡，超越了普通程序的限制。刀刃武器伤害增加 30%。对敌人造成最多 5 次持续伤害，强力攻击造成 4 次。擦伤有 40% 的几率造成 1 次持续伤害。受伤的敌人移动速度降低 15%。耐力消耗减少 20%，强力攻击减少 40%。击杀恢复 10 点耐力。在战利品中找到更多刀刃武器和零件。"
+perkDeepCutsRank4LongDesc,你在使用刀刃武器方面非常致命。刀刃武器伤害增加 40%。对敌人造成最多 6 次持续伤害，强力攻击造成 4 次。擦伤有 70% 的几率造成 1 次持续伤害。耐力消耗减少 25%，强力攻击减少 50%。击杀恢复 20 点耐力。在战利品中找到更多刀刃武器和零件。
+perkDeepCutsRank5LongDesc,"你是一个赛博战士，精准地切割敌人，将他们变成字节大小的寿司。刀刃武器伤害增加 50%。对敌人造成最多 7 次持续伤害，强力攻击造成 5 次。所有擦伤造成 1 次持续伤害。受伤的敌人移动速度降低 20%。击杀恢复 30 点耐力。在战利品中找到更多刀刃武器和零件。"
 perkTechJunkie5RepulsorLongDesc,电击排斥模块：为电击棒制作一个电击排斥模块，在充电攻击时将敌人击飞。
 perkWasteTreasuresSinksLongDesc,水槽：敌人太多而子弹太少。这里有一个从水槽和管道中获取更多铅和黄铜的小技巧。
 perkHealingFactorRank3Desc,改造人
 perkHealingFactorRank3LongDesc,你是半机械人吗？每 15 秒通过自然恢复获得 1 点生命值。重伤恢复速度加快 60%。
 perkRuleOneCardioDesc,训练你的身体对抗机器威胁的第一策略：逃跑。
-perkElectrocutionerRank3LongDesc,你用电击棒变得危险了。所有电击棒伤害增加 30%。电击棒电击受害者的时间延长 60%。耐力消耗减少 20%，强力攻击减少 40%。击杀恢复 10 点耐力。在战利品中找到更多电击棒和部件。
-perkPummelPeteRank5LongDesc,"神拳皮特 曾经只用一根棍棒对付 50 名敌人，并且他会为你感到自豪。棍棒伤害增加 50%，攻击对被眩晕的敌人造成 200% 更多伤害，强力攻击有 100% 的几率击倒敌人。击杀恢复 30 点耐力。短时间内连续三次攻击的最后一击造成 100% 额外伤害。在战利品中找到更多棍棒和部件。"
-perkSkullCrusherRank1LongDesc,"你是个强悍的战士！有时候你可以击倒敌人。碎颅锤伤害增加 10%。强力攻击有 15% 的几率击倒敌人。耐力消耗减少 8%，强力攻击减少 15%。在战利品中找到更多碎颅锤和部件。"
-craftingBladesDesc,阅读 [DECEA3]刀侠[-] 会提高制作刀刃的质量。\n提高 [DECEA3]Lethal Blade[-] 的战利品概率。
+perkElectrocutionerRank3LongDesc,你用电击棒变得危险了。所有电击棒伤害增加 30%。电击棒电击受害者的时间延长 60%。耐力消耗减少 20%，强力攻击减少 40%。击杀恢复 10 点耐力。在战利品中找到更多电击棒和零件。
+perkPummelPeteRank5LongDesc,"神拳皮特 曾经只用一根棍棒对付 50 名敌人，并且他会为你感到自豪。棍棒伤害增加 50%，攻击对被眩晕的敌人造成 200% 更多伤害，强力攻击有 100% 的几率击倒敌人。击杀恢复 30 点耐力。短时间内连续三次攻击的最后一击造成 100% 额外伤害。在战利品中找到更多棍棒和零件。"
+perkSkullCrusherRank1LongDesc,"你是个强悍的战士！有时候你可以击倒敌人。碎颅锤伤害增加 10%。强力攻击有 15% 的几率击倒敌人。耐力消耗减少 8%，强力攻击减少 15%。在战利品中找到更多碎颅锤和零件。"
+craftingBladesDesc,阅读 [DECEA3]刀侠[-] 会提高制作刀刃的质量。\n提高 [DECEA3]致命之刃[-] 的战利品几率。
 perkPistolPeteAPAmmoDesc,制作穿甲弹药。
 perkPistolPeteAPAmmoLongDesc,穿甲弹药：穿甲弹对有装甲的目标造成显著更多的伤害。制作 9mm 穿甲弹和 纳米 穿甲能源电池。
 perkPistolPeteCompleteDesc,近距离射击无视护甲。批量制作 9mm 弹药和 纳米 能源电池。
@@ -819,8 +819,8 @@ quest_BasicSurvival1,基本生存 1/1
 modGunMeleeTheHunterSchematic,灭虫者改装图纸
 modGunMeleeTheHunter,灭虫者改装
 modGunMeleeTheHunterDesc,+25% 对机器人和机甲的伤害。
-modMeleeClubBarbedWireDesc,"20% 的几率造成机械伤害，强力攻击时为 40%。\n可安装在棍棒上。"
-modMeleeSerratedBladeDesc,普通攻击时有 10% 的几率造成机械伤害。
+modMeleeClubBarbedWireDesc,"20% 的几率造成持续伤害，强力攻击时为 40%。\n可安装在棍棒上。"
+modMeleeSerratedBladeDesc,普通攻击时有 10% 的几率造成持续伤害。
 modMeleeStunBatonRepulsorDesc,将此改装件安装到电击棒中，在充能攻击时让敌人飞出去。
 modMeleeErgonomicGripDesc,减少近战耐力消耗 10%。
 modArmorCigarDesc,看起来更威猛，并从商人那里获得更好的交易。同时提升你的矿工技能！
@@ -898,9 +898,9 @@ onFireTip,"某些武器、敌人或环境部分会使你着火。要扑灭火焰
 airDropTip,空中补给投送通常发生在中午左右。听飞机的声音并跟随蓝色烟雾找到飞机投下的箱子。如果你启用了标记空投选项，也可以在地图上找到标记的补给箱。
 loadingTipMainHUD,"在你的HUD上显示了你的生命值、耐力和辐射水平，分别用红色、蓝色以及绿色、橙色或红色表示辐射，具体取决于你的暴露程度。食物和水的水平显示在工具带右侧的绿色和蓝色条。通过 [action:local:Inventory][action:permanent:Character] 打开角色屏幕查看详细的角色统计信息。"
 loadingTipPickaxes,"镐头非常适合采集各种矿石，如铁、铅、煤、油页岩、硝酸钾和钴。"
-loadingTipBaseUpgrading,"建筑模块可以使用材料和石斧升级为更强的版本。\n最常见的升级材料有：木头、鹅卵石、混凝土混合物、锻造钢和锻造钴。"
+loadingTipBaseUpgrading,"建筑模块可以使用材料和石斧升级为更强的版本。\n最常见的升级材料有：木头、鹅卵石、混凝土混合物、锻钢和锻钴。"
 loadingTipHarvestingRobots_title,采集机器人
-loadingTipHarvestingRobots,"使用回收工具采集机器人以获取有用的材料，如电子部件、机械部件等。"
+loadingTipHarvestingRobots,"使用回收工具采集机器人以获取有用的材料，如电子零件、机械零件等。"
 loadingTipHarvestingNanoChips_title,纳米芯片
 loadingTipHarvestingNanoChips,"纳米芯片是小型计算设备，可以从机器人和高科技车辆中使用回收工具采集。"
 zombie_slayer_name_soldier,士兵猎手
@@ -966,40 +966,40 @@ challengeKillRobotsShort,消灭大量机器人。
 challengeKillRobotsDesc,"[DECEA3]机器人[-] 是你日常生存的持续威胁。\n\n不仅直接危险，它们还能破坏 [DECEA3]建筑[-] 并使你 [4EE44E]辐射[-]。\n\n随着你的 [DECEA3]游戏阶段[-] 提升，更强、更快、更具挑战性的 [DECEA3]机器人[-] 会出现。\n\n没有地方是安全的，因为 [DECEA3]机器人[-] 巡逻所有生态区，其中 [DECEA3]市中心[-] 和 [DECEA3]商业区[-] 的浓度最高，而其他地区可能较少。 \n\n消灭大量 [DECEA3]机器人[-]。"
 challengeKillOverchargedRobots,消灭超载机器人
 challengeKillOverchargedRobotsShort,消灭一些超载机器人。
-challengeKillOverchargedRobotsDesc,"[DECEA3]超载机器人[-] 白天奔跑，攻击力更强，承受更多伤害。\n\n拆解后可获得少量 [DECEA3]电气部件[-]、[DECEA3]机械部件[-]、[DECEA3]弹簧[-] 和 [DECEA3]纳米芯片[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]超载机器人[-]。"
+challengeKillOverchargedRobotsDesc,"[DECEA3]超载机器人[-] 白天奔跑，攻击力更强，承受更多伤害。\n\n拆解后可获得少量 [DECEA3]电子零件[-]、[DECEA3]机械零件[-]、[DECEA3]弹簧[-] 和 [DECEA3]纳米芯片[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]超载机器人[-]。"
 challengeKillRadiatedRobots,消灭辐射机器人
 challengeKillRadiatedRobotsShort,消灭一些辐射机器人。
-challengeKillRadiatedRobotsDesc,"[DECEA3]辐射机器人[-] 可以恢复健康并造成范围辐射伤害，使附近的目标 [4EE44E]辐射[-]。\n\n拆解后可获得少量 [DECEA3]电气部件[-]、[DECEA3]机械部件[-]、[DECEA3]弹簧[-] 和 [DECEA3]纳米芯片[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]辐射机器人[-]。"
+challengeKillRadiatedRobotsDesc,"[DECEA3]辐射机器人[-] 可以恢复健康并造成范围辐射伤害，使附近的目标 [4EE44E]辐射[-]。\n\n拆解后可获得少量 [DECEA3]电气零件[-]、[DECEA3]机械零件[-]、[DECEA3]弹簧[-] 和 [DECEA3]纳米芯片[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]辐射机器人[-]。"
 challengeKillInfernoRobots,消灭烈焰机器人
 challengeKillInfernoRobotsShort,消灭一些烈焰机器人
-challengeKillInfernoRobotsDesc,"[DECEA3]烈焰机器人[-] 非常坚固，白天奔跑，并有一定几率在每次攻击时使目标 [FFA500]着火[-]。\n\n拆解后可获得少量 [DECEA3]电气部件[-]、[DECEA3]机械部件[-]、[DECEA3]弹簧[-] 和 [DECEA3]纳米芯片[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]烈焰机器人[-]。"
+challengeKillInfernoRobotsDesc,"[DECEA3]烈焰机器人[-] 非常坚固，白天奔跑，并有一定几率在每次攻击时使目标 [FFA500]着火[-]。\n\n拆解后可获得少量 [DECEA3]电气零件[-]、[DECEA3]机械零件[-]、[DECEA3]弹簧[-] 和 [DECEA3]纳米芯片[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]烈焰机器人[-]。"
 challengeKillShockerRobots,消灭电击机器人
 challengeKillShockerRobotsShort,消灭一些电击机器人
-challengeKillShockerRobotsDesc,"[DECEA3]电击机器人[-] 非常坚固，白天奔跑，并有一定几率在每次攻击时使目标 [33CCFF]触电[-]。\n\n拆解后可获得少量 [DECEA3]电气部件[-]、[DECEA3]机械部件[-]、[DECEA3]弹簧[-] 和 [DECEA3]纳米芯片[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]电击机器人[-]。"
+challengeKillShockerRobotsDesc,"[DECEA3]电击机器人[-] 非常坚固，白天奔跑，并有一定几率在每次攻击时使目标 [33CCFF]触电[-]。\n\n拆解后可获得少量 [DECEA3]电气零件[-]、[DECEA3]机械零件[-]、[DECEA3]弹簧[-] 和 [DECEA3]纳米芯片[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]电击机器人[-]。"
 challengeKillRobotDogs,消灭机器狗
 challengeKillRobotDogsShort,消灭一些机器狗
-challengeKillRobotDogsDesc,"[DECEA3]机器狗[-] 非常坚固且速度快，使得它们难以消灭。注意有些版本会反击。\n\n拆解后可获得少量 [DECEA3]电气部件[-]、[DECEA3]机械部件[-]、[DECEA3]弹簧[-] 和 [DECEA3]纳米芯片[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]机器狗[-]。"
+challengeKillRobotDogsDesc,"[DECEA3]机器狗[-] 非常坚固且速度快，使得它们难以消灭。注意有些版本会反击。\n\n拆解后可获得少量 [DECEA3]电气零件[-]、[DECEA3]机械零件[-]、[DECEA3]弹簧[-] 和 [DECEA3]纳米芯片[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]机器狗[-]。"
 challengeKillSpiderBots,消灭蜘蛛机器人
 challengeKillSpiderBotsShort,消灭一些蜘蛛机器人
-challengeKillSpiderBotsDesc,"[DECEA3]蜘蛛机器人[-] 很弱但速度极快，并从远处跳向目标。\n\n拆解后可获得少量 [DECEA3]电气部件[-]、[DECEA3]机械部件[-]、[DECEA3]弹簧[-] 和 [DECEA3]纳米芯片[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]蜘蛛机器人[-]。"
+challengeKillSpiderBotsDesc,"[DECEA3]蜘蛛机器人[-] 很弱但速度极快，并从远处跳向目标。\n\n拆解后可获得少量 [DECEA3]电气零件[-]、[DECEA3]机械零件[-]、[DECEA3]弹簧[-] 和 [DECEA3]纳米芯片[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]蜘蛛机器人[-]。"
 challengeKillDrones,消灭无人机
 challengeKillDronesShort,消灭一些无人机
 challengeKillDronesDesc,"[DECEA3]无人机[-] 在空中扫描，并在视野中隐身，使得它们很难被发现。注意有些版本会反击。\n\n它们在危急状态时自毁以保护收集的数据不落入他人之手。\n\n消灭一些 [DECEA3]无人机[-]。"
 challengeKillDroids,消灭机器人
 challengeKillDroidsShort,消灭一些机器人
-challengeKillDroidsDesc,"[DECEA3]机器人[-] 是重型战斗机器人，巡逻废土街道。注意有些版本在你靠近时会自毁。\n\n拆解后可获得适量 [DECEA3]电气部件[-]、[DECEA3]机械部件[-]、[DECEA3]弹簧[-]、[DECEA3]纳米芯片[-]、[DECEA3]锻造钢[-] 和 [DECEA3]锻造钴[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]机器人[-]。"
+challengeKillDroidsDesc,"[DECEA3]机器人[-] 是重型战斗机器人，巡逻废土街道。注意有些版本在你靠近时会自毁。\n\n拆解后可获得适量 [DECEA3]电气零件[-]、[DECEA3]机械零件[-]、[DECEA3]弹簧[-]、[DECEA3]纳米芯片[-]、[DECEA3]锻钢[-] 和 [DECEA3]锻钴[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]机器人[-]。"
 challengeKillMechs,消灭机甲
 challengeKillMechsShort,消灭一些机甲
-challengeKillMechsDesc,"[DECEA3]机甲[-] 是废土中最坚固且最残暴的机器，设计用于大规模清除。注意大多数版本装备了致命的等离子炮，并会立即开火。\n\n拆解后可获得大量 [DECEA3]电气部件[-]、[DECEA3]机械部件[-]、[DECEA3]弹簧[-]、[DECEA3]纳米芯片[-]、[DECEA3]锻造钢[-] 和 [DECEA3]锻造钴[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]机甲[-]。"
+challengeKillMechsDesc,"[DECEA3]机甲[-] 是废土中最坚固且最残暴的机器，设计用于大规模清除。注意大多数版本装备了致命的等离子炮，并会立即开火。\n\n拆解后可获得大量 [DECEA3]电气零件[-]、[DECEA3]机械零件[-]、[DECEA3]弹簧[-]、[DECEA3]纳米芯片[-]、[DECEA3]锻钢[-] 和 [DECEA3]锻钴[-] 以及其他珍贵金属。\n\n消灭一些 [DECEA3]机甲[-]。"
 challengeOpenStarterCapsule,打开新手胶囊
 challengeOpenStarterCapsuleShort,打开新手胶囊。
 challengeOpenStarterCapsuleDesc,"[DECEA3]新手胶囊[-] 会给你提供生存所需的基本物品。你需要里面的 [DECEA3]扳手[-] 来采集资源，以便建造工作站来帮助你生存。\n\n还提供了基本的 [DECEA3]食物[-]、[DECEA3]水[-] 和 [DECEA3]医疗用品[-]，帮助你度过最初的几天。\n\n还提供了一个基本的 [DECEA3]手电筒[-]，帮助你在黑暗区域导航。"
-challengeReadForgeAheadMagazine,阅读《高级锻造指南》杂志
-challengeReadForgeAheadMagazineShort,阅读一本《高级锻造指南》杂志。
-challengeReadForgeAheadMagazineDesc,"[DECEA3]制造技能杂志[-] 涵盖了广泛的主题。阅读它们可以提高你的 [DECEA3]制造技能[-]，从而提升所制造物品的 [DECEA3]质量[-] 和/或 [DECEA3]技术等级[-]。\n\n阅读第一本 [DECEA3]《高级锻造指南》[-] 杂志将解锁你所需的必要工作站，以生产 [DECEA3]食物[-] 和 [DECEA3]清洁水[-]。\n\n[DECEA3]制造技能杂志[-] 可以在各种战利品容器中找到，如 [DECEA3]邮箱[-]，也可以在 [DECEA3]商人[-] 处购买，或者作为 [DECEA3]任务奖励[-] 获得。"
+challengeReadForgeAheadMagazine,阅读《锻造指南》杂志
+challengeReadForgeAheadMagazineShort,阅读一本《锻造指南》杂志。
+challengeReadForgeAheadMagazineDesc,"[DECEA3]制造技能杂志[-] 涵盖了广泛的主题。阅读它们可以提高你的 [DECEA3]制造技能[-]，从而提升所制造物品的 [DECEA3]质量[-] 和/或 [DECEA3]技术等级[-]。\n\n阅读第一本 [DECEA3]《锻造指南》[-] 杂志将解锁你所需的必要工作站，以生产 [DECEA3]食物[-] 和 [DECEA3]清洁水[-]。\n\n[DECEA3]制造技能杂志[-] 可以在各种战利品容器中找到，如 [DECEA3]邮箱[-]，也可以在 [DECEA3]商人[-] 处购买，或者作为 [DECEA3]任务奖励[-] 获得。"
 challengeGatherResourcesFabricator,收集制造机资源
 challengeGatherResourcesFabricatorShort,收集制造机所需的资源。
-challengeGatherResourcesFabricatorDesc,"你需要的资源包括 [DECEA3]铁[-]、[DECEA3]废聚合物[-]、[DECEA3]胶带[-]、[DECEA3]纳米芯片[-] 和 [DECEA3]电气部件[-]。\n\n这些资源中的许多可以从 [DECEA3]停机机器人[-] 或 [DECEA3]高科技车辆[-] 中获取。\n\n[DECEA3]废聚合物[-] 可以从纸箱和窗帘中采集。[DECEA3]胶带[-] 可以通过制造或在战利品中找到。"
+challengeGatherResourcesFabricatorDesc,"你需要的资源包括 [DECEA3]铁[-]、[DECEA3]废聚合物[-]、[DECEA3]胶带[-]、[DECEA3]纳米芯片[-] 和 [DECEA3]电气零件[-]。\n\n这些资源中的许多可以从 [DECEA3]停机机器人[-] 或 [DECEA3]高科技车辆[-] 中获取。\n\n[DECEA3]废聚合物[-] 可以从纸箱和窗帘中采集。[DECEA3]胶带[-] 可以通过制造或在战利品中找到。"
 challengePlaceFabricator,放置制造机
 challengePlaceFabricatorShort,制造并放置制造机在地上。
 challengePlaceFabricatorDesc,"[DECEA3]制造机[-] 用于制造 [DECEA3]生肉[-]、[DECEA3]鸡蛋[-]、[DECEA3]动物脂肪[-] 和其他高级配方。\n\n在 [DECEA3]制造机[-] 上制造配方时，所需材料必须在你的 [DECEA3]背包[-] 中。\n\n按住 [action:local:Activate][action:permanent:Activate] 来捡起你 [DECEA3]领地[-] 区域内的工作站。"
