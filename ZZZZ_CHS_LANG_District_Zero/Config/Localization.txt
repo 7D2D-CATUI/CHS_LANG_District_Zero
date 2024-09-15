@@ -545,25 +545,25 @@ armorNerdGlovesDesc,重装甲\n保护那些冰冷潮湿的手不受环境影响�
 foodShamChowderDesc,山威杂烩，味道绝佳，还能长胸毛！
 resourceTestosteroneExtract,合成睾酮素
 resourceTestosteroneExtractDesc,一种用于制造类固醇的人工化合物。
-attuniversalperks,通用特权
-attUniversalPerksName,通用特权
-attUniversalPerksDesc,通用特权 包含广泛的各种技能。
+attuniversalperks,通用理论
+attUniversalPerksName,通用理论
+attUniversalPerksDesc,通用理论 包含广泛的各种技能。
 attUniversalPerksRank1Desc,等级 1
 attUniversalPerksRank2Desc,等级 2
 attUniversalPerksRank3Desc,等级 3
 attUniversalPerksRank4Desc,等级 4
 attUniversalPerksRank5Desc,等级 5
-attempath,读心者
-attEmpathName,读心者
-attEmpathDesc,读心者 广为人知是因为他们的智力和魅力。提高 读心者 可以增加使用受其影响的武器（如步枪和电击棒）时的头部伤害。
+attempath,智能意识
+attEmpathName,智能意识
+attEmpathDesc,智能意识 广为人知是因为他们的智力和魅力。提高 智能意识 技能可以增加使用受其影响的武器（如步枪和电击棒）对头部的暴击伤害。
 attEmpathRank1Desc,等级 1
 attEmpathRank2Desc,等级 2
 attEmpathRank3Desc,等级 3
 attEmpathRank4Desc,等级 4
 attEmpathRank5Desc,等级 5
-attcybernetician,控制论
-attCyberneticianName,控制论
-attCyberneticianDesc,控制论 专注于重型武器和机器人的制造与维修。提高 控制论 可以增加使用受其影响的武器（如机枪和指虎）时的头部伤害。
+attcybernetician,未来思维
+attCyberneticianName,未来思维
+attCyberneticianDesc,未来思维 专注于重型武器和机器人的制造与维修。提高 未来思维 技能可以增加使用受其影响的武器（如机枪和拳头武器）对头部的暴击伤害。
 attCyberneticianRank1Desc,等级 1
 attCyberneticianRank2Desc,等级 2
 attCyberneticianRank3Desc,等级 3
@@ -571,71 +571,71 @@ attCyberneticianRank4Desc,等级 4
 attCyberneticianRank5Desc,等级 5
 attcosmotech,宇宙科技
 attCosmotechName,宇宙科技
-attCosmotechDesc,宇宙科技 专注于车辆维修和材料回收。提高 宇宙科技 可以增加使用受其影响的武器（如棍棒和霰弹枪）时的头部伤害。
+attCosmotechDesc,宇宙科技 专注于车辆维修和材料回收。提高 宇宙科技 技能可以增加使用受其影响的武器（如棍棒和霰弹枪）对头部的暴击伤害。
 attCosmotechRank01Desc,等级 1
 attCosmotechRank02Desc,等级 2
 attCosmotechRank03Desc,等级 3
 attCosmotechRank04Desc,等级 4
 attCosmotechRank05Desc,等级 5
-attexomedic,外科医生
-attExomedicName,外科医生
-attExomedicDesc,外科医生 专注于健身和治疗伤害。提高 外科医生 可以增加使用受其影响的武器（如刀刃和手枪）时的头部伤害。
+attexomedic,量子医学
+attExomedicName,量子医学
+attExomedicDesc,量子医学 专注于健身和治疗伤害。提高 量子医学 技能可以增加使用受其影响的武器（如刀刃和手枪）对头部的暴击伤害。
 attExomedicRank01Desc,等级 1
 attExomedicRank02Desc,等级 2
 attExomedicRank03Desc,等级 3
 attExomedicRank04Desc,等级 4
 attExomedicRank05Desc,等级 5
-attastrominer,天文矿工
-attAstrominerName,天文矿工
-attAstrominerDesc,天文矿工 专注于采矿和资源提取。提高 天文矿工 可以增加使用受其影响的武器（如锤子和爆炸物）时的头部伤害。
+attastrominer,泰拉重工
+attAstrominerName,泰拉重工
+attAstrominerDesc,泰拉重工 专注于采矿和资源提取。提高 泰拉重工 技能可以增加使用受其影响的武器（如大锤和爆炸物）对头部的暴击伤害。
 attAstrominerRank01Desc,等级 1
 attAstrominerRank02Desc,等级 2
 attAstrominerRank03Desc,等级 3
 attAstrominerRank04Desc,等级 4
 attAstrominerRank05Desc,等级 5
-attneonaut,霓虹科技
-attNeonautName,霓虹科技
-attNeonautDesc,霓虹科技 专注于多行星探索和新物种发现。提高 霓虹科技 可以增加使用受其影响的武器（如弓和长矛）时的头部伤害。
+attneonaut,星际探险
+attNeonautName,星际探险
+attNeonautDesc,星际探险 专注于多行星探索和新物种发现。提高 星际探险 技能可以增加使用受其影响的武器（如弓和长矛）对头部的暴击伤害。
 attNeonautRank01Desc,等级 1
 attNeonautRank02Desc,等级 2
 attNeonautRank03Desc,等级 3
 attNeonautRank04Desc,等级 4
 attNeonautRank05Desc,等级 5
-reqUniversalPerksLevel01,通用特权 等级 1
-reqUniversalPerksLevel02,通用特权 等级 2
-reqUniversalPerksLevel03,通用特权 等级 3
-reqUniversalPerksLevel04,通用特权 等级 4
-reqUniversalPerksLevel05,通用特权 等级 5
-reqEmpathLevel01,读心者 等级 1
-reqEmpathLevel02,读心者 等级 2
-reqEmpathLevel03,读心者 等级 3
-reqEmpathLevel04,读心者 等级 4
-reqEmpathLevel05,读心者 等级 5
-reqCyberneticianLevel01,控制论 等级 1
-reqCyberneticianLevel02,控制论 等级 2
-reqCyberneticianLevel03,控制论 等级 3
-reqCyberneticianLevel04,控制论 等级 4
-reqCyberneticianLevel05,控制论 等级 5
+reqUniversalPerksLevel01,通用理论 等级 1
+reqUniversalPerksLevel02,通用理论 等级 2
+reqUniversalPerksLevel03,通用理论 等级 3
+reqUniversalPerksLevel04,通用理论 等级 4
+reqUniversalPerksLevel05,通用理论 等级 5
+reqEmpathLevel01,智能意识 等级 1
+reqEmpathLevel02,智能意识 等级 2
+reqEmpathLevel03,智能意识 等级 3
+reqEmpathLevel04,智能意识 等级 4
+reqEmpathLevel05,智能意识 等级 5
+reqCyberneticianLevel01,未来思维 等级 1
+reqCyberneticianLevel02,未来思维 等级 2
+reqCyberneticianLevel03,未来思维 等级 3
+reqCyberneticianLevel04,未来思维 等级 4
+reqCyberneticianLevel05,未来思维 等级 5
 reqCosmotechLevel01,宇宙科技 等级 1
 reqCosmotechLevel02,宇宙科技 等级 2
 reqCosmotechLevel03,宇宙科技 等级 3
 reqCosmotechLevel04,宇宙科技 等级 4
 reqCosmotechLevel05,宇宙科技 等级 5
-reqExomedicLevel01,Exomedic 等级 1
-reqExomedicLevel02,Exomedic 等级 2
-reqExomedicLevel03,Exomedic 等级 3
-reqExomedicLevel04,Exomedic 等级 4
-reqExomedicLevel05,Exomedic 等级 5
-reqAstrominerLevel01,外科医生 等级 1
-reqAstrominerLevel02,外科医生 等级 2
-reqAstrominerLevel03,外科医生 等级 3
-reqAstrominerLevel04,外科医生 等级 4
-reqAstrominerLevel05,外科医生 等级 5
-reqNeonautLevel01,霓虹科技 等级 1
-reqNeonautLevel02,霓虹科技 等级 2
-reqNeonautLevel03,霓虹科技 等级 3
-reqNeonautLevel04,霓虹科技 等级 4
-reqNeonautLevel05,霓虹科技 等级 5
+reqExomedicLevel01,量子医学 等级 1
+reqExomedicLevel02,量子医学 等级 2
+reqExomedicLevel03,量子医学 等级 3
+reqExomedicLevel04,量子医学 等级 4
+reqExomedicLevel05,量子医学 等级 5
+reqAstrominerLevel01,泰拉重工 等级 1
+reqAstrominerLevel02,泰拉重工 等级 2
+reqAstrominerLevel03,泰拉重工 等级 3
+reqAstrominerLevel04,泰拉重工 等级 4
+reqAstrominerLevel05,泰拉重工 等级 5
+reqNeonautLevel01,星际探险 等级 1
+reqNeonautLevel02,星际探险 等级 2
+reqNeonautLevel03,星际探险 等级 3
+reqNeonautLevel04,星际探险 等级 4
+reqNeonautLevel05,星际探险 等级 5
 perkGreatHeistCompleteDesc,开锁总是成功。开锁速度提高 20%。
 perkGreatHeistCompleteLongDesc,"开锁：即使还有法律存在，你也已经在打破它们！掌握开锁技巧，开锁速度提高 20%。开锁工具永远不会损坏。"
 attEmpathRank1LongDesc,"使用步枪和电击棒时，头部伤害提高至 200%，并有 5% 的机会肢解敌人。"
