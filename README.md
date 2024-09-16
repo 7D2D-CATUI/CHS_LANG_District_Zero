@@ -1,5 +1,5 @@
 # CHS_LANG_District_Zero
-District Zero Chinese Language
+District Zero Chinese Language 《零区》中文汉化
 
 ## 《District Zero》 
 ### 下载
